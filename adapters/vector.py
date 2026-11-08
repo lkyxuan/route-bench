@@ -22,17 +22,18 @@ def emb(xs):
     v = sess.run(None, {"input_ids": ids, "attention_mask": am, "token_type_ids": np.zeros_like(ids)})[0][:, 0]
     return v / np.linalg.norm(v, axis=1, keepdims=True)
 
-index = None
+indexes = {}  # 宝列表 → 索引（连续对话里新建了宝，宝列表会变，按列表分别缓存）
 for line in sys.stdin:
     q = json.loads(line)
-    if index is None:  # 第一次请求时建索引（宝列表每次都一样）
+    sig = tuple(b["name"] for b in q["baos"])
+    if sig not in indexes:
         keys, texts = [], []
         for b in q["baos"]:
             keys.append((b["name"], None)); texts.append(f'{b["name"]}：{b["desc"]}')
             for t in b["threads"]:
                 keys.append((b["name"], t["name"])); texts.append(f'{b["name"]}/{t["name"]}：{t["summary"]}')
-        index = (keys, emb(texts))
-    keys, E = index
+        indexes[sig] = (keys, emb(texts))
+    keys, E = indexes[sig]
     s = E @ emb([q["text"]])[0]
     i = int(np.argmax(s))
     print(json.dumps({"id": q["id"], "type": "route", "bao": keys[i][0], "thread": keys[i][1], "layer": "向量", "score": round(float(s[i]), 3)}, ensure_ascii=False), flush=True)
