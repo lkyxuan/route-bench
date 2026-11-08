@@ -25,7 +25,11 @@ function target(s, where) {
 /** 期望写法 → 期望对象 */
 function expect(s, where) {
   if (s === "REPLY") return { type: "reply" };
-  if (s.startsWith("NEW:")) return { type: "new", about: s.slice(4) };
+  if (s.startsWith("NEW:")) {
+    const body = s.slice(4);
+    const eq = body.indexOf("=");
+    return eq > 0 ? { type: "new", name: body.slice(0, eq), about: body.slice(eq + 1) } : { type: "new", about: body };
+  }
   if (s.startsWith("SPLIT:")) return { type: "split", targets: s.slice(6).split("+").map((x) => target(x, where)) };
   return { type: "route", ...target(s, where) };
 }
@@ -59,7 +63,11 @@ for (const l of lines("episodes.txt")) {
   if (!m) throw new Error(`episodes.txt 看不懂：${l}`);
   const same = m[2] === "=";
   if (same && !ep.turns.length) throw new Error(`episodes.txt：第一句不能写 =：${l}`);
-  const e = same ? ep.turns.at(-1).expect : expect(m[2], `episodes.txt「${ep.title}」`);
+  let e = same ? ep.turns.at(-1).expect : expect(m[2], `episodes.txt「${ep.title}」`);
+  if (same && e.type === "new") {
+    if (!e.name) throw new Error(`episodes.txt「${ep.title}」：新建宝后面要接着聊，NEW 要写成 NEW:名字=负责什么`);
+    e = { type: "route", bao: e.name, thread: null, created: { name: e.name, about: e.about } };
+  }
   ep.turns.push({ text: m[1], expect: e, followUp: same });
 }
 
