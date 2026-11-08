@@ -1,0 +1,12 @@
+{
+  "name": "route-bench",
+  "version": "0.1.0",
+  "private": true,
+  "description": "宝路由测试基准：100 个宝、1000 句话，测任何路由方案能不能把话分到对的宝",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "bench": "node bench.mjs"
+  },
+  "engines": { "node": ">=20" }
+}

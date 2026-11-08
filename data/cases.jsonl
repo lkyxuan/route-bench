@@ -1,0 +1,859 @@
+{"id":"single-001","kind":"single","turns":[{"text":"公司地址要从朝阳迁到海淀，工商那边要跑几趟？","expect":{"type":"route","bao":"公司宝","thread":null}}]}
+{"id":"single-002","kind":"single","turns":[{"text":"今年的企业年报什么时候截止","expect":{"type":"route","bao":"公司宝","thread":null}}]}
+{"id":"single-003","kind":"single","turns":[{"text":"想再加一个经营范围，软件开发那类的","expect":{"type":"route","bao":"公司宝","thread":null}}]}
+{"id":"single-004","kind":"single","turns":[{"text":"股东变更需要哪些材料","expect":{"type":"route","bao":"公司宝","thread":null}}]}
+{"id":"single-005","kind":"single","turns":[{"text":"注册资本认缴改成五年内实缴了吗","expect":{"type":"route","bao":"公司宝","thread":null}}]}
+{"id":"single-006","kind":"single","turns":[{"text":"我的logo能申请版权登记吗","expect":{"type":"route","bao":"商标宝","thread":null}}]}
+{"id":"single-007","kind":"single","turns":[{"text":"发现有人抢注了一个很像的名字，能异议吗","expect":{"type":"route","bao":"商标宝","thread":null}}]}
+{"id":"single-008","kind":"single","turns":[{"text":"软件著作权大概多久下来","expect":{"type":"route","bao":"商标宝","thread":null}}]}
+{"id":"single-009","kind":"single","turns":[{"text":"商标要选哪些类别比较稳","expect":{"type":"route","bao":"商标宝","thread":null}}]}
+{"id":"single-010","kind":"single","turns":[{"text":"发明专利和实用新型有什么区别","expect":{"type":"route","bao":"商标宝","thread":null}}]}
+{"id":"single-011","kind":"single","turns":[{"text":"帮我拟一份保密协议，双向的","expect":{"type":"route","bao":"合同宝","thread":null}}]}
+{"id":"single-012","kind":"single","turns":[{"text":"这份劳务合同里竞业限制条款合理吗","expect":{"type":"route","bao":"合同宝","thread":null}}]}
+{"id":"single-013","kind":"single","turns":[{"text":"租办公室的合同要注意什么坑","expect":{"type":"route","bao":"合同宝","thread":null}}]}
+{"id":"single-014","kind":"single","turns":[{"text":"对方要求违约金 30%，是不是太高","expect":{"type":"route","bao":"合同宝","thread":null}}]}
+{"id":"single-015","kind":"single","turns":[{"text":"写个合作框架协议，分成按七三","expect":{"type":"route","bao":"合同宝","thread":null}}]}
+{"id":"single-016","kind":"single","turns":[{"text":"帮我写一个后端工程师的招聘要求","expect":{"type":"route","bao":"招聘宝","thread":null}}]}
+{"id":"single-017","kind":"single","turns":[{"text":"面试产品经理该问哪些问题","expect":{"type":"route","bao":"招聘宝","thread":null}}]}
+{"id":"single-018","kind":"single","turns":[{"text":"这份简历你帮我看看值不值得约","expect":{"type":"route","bao":"招聘宝","thread":null}}]}
+{"id":"single-019","kind":"single","turns":[{"text":"实习生工资一般给多少合适","expect":{"type":"route","bao":"招聘宝","thread":null}}]}
+{"id":"single-020","kind":"single","turns":[{"text":"候选人要的薪资比预算高 20%，怎么谈","expect":{"type":"route","bao":"招聘宝","thread":null}}]}
+{"id":"single-021","kind":"single","turns":[{"text":"有个新客户想要试用，怎么回他比较好","expect":{"type":"route","bao":"客户宝","thread":null}}]}
+{"id":"single-022","kind":"single","turns":[{"text":"帮我给老客户写一封续约提醒","expect":{"type":"route","bao":"客户宝","thread":null}}]}
+{"id":"single-023","kind":"single","turns":[{"text":"客户嫌我们响应慢在群里抱怨了","expect":{"type":"route","bao":"客户宝","thread":null}}]}
+{"id":"single-024","kind":"single","turns":[{"text":"整理一下这季度所有在跟的单子","expect":{"type":"route","bao":"客户宝","thread":null}}]}
+{"id":"single-025","kind":"single","turns":[{"text":"那个做教育的客户三周没回消息了","expect":{"type":"route","bao":"客户宝","thread":null}}]}
+{"id":"single-026","kind":"single","turns":[{"text":"明天下午三点约设计和开发开个会","expect":{"type":"route","bao":"会议宝","thread":null}}]}
+{"id":"single-027","kind":"single","turns":[{"text":"把刚才的会议录音整理成纪要","expect":{"type":"route","bao":"会议宝","thread":null}}]}
+{"id":"single-028","kind":"single","turns":[{"text":"下周的复盘会议程帮我列一下","expect":{"type":"route","bao":"会议宝","thread":null}}]}
+{"id":"single-029","kind":"single","turns":[{"text":"会上定的三件事分给谁了来着","expect":{"type":"route","bao":"会议宝","thread":null}}]}
+{"id":"single-030","kind":"single","turns":[{"text":"帮我找个所有人都有空的时间开会","expect":{"type":"route","bao":"会议宝","thread":null}}]}
+{"id":"single-031","kind":"single","turns":[{"text":"收件箱里有 200 封未读，帮我挑重要的","expect":{"type":"route","bao":"邮件宝","thread":null}}]}
+{"id":"single-032","kind":"single","turns":[{"text":"写一封英文邮件礼貌地拒绝合作","expect":{"type":"route","bao":"邮件宝","thread":null}}]}
+{"id":"single-033","kind":"single","turns":[{"text":"有封邮件说我的域名要续费，是不是钓鱼","expect":{"type":"route","bao":"邮件宝","thread":null}}]}
+{"id":"single-034","kind":"single","turns":[{"text":"帮我设置一个出差期间的自动回复","expect":{"type":"route","bao":"邮件宝","thread":null}}]}
+{"id":"single-035","kind":"single","turns":[{"text":"给全员发个通知，下周五团建","expect":{"type":"route","bao":"邮件宝","thread":null}}]}
+{"id":"single-036","kind":"single","turns":[{"text":"这张打车票能报吗，没有抬头","expect":{"type":"route","bao":"报销宝","thread":null}}]}
+{"id":"single-037","kind":"single","turns":[{"text":"电子发票怎么批量下载","expect":{"type":"route","bao":"报销宝","thread":null}}]}
+{"id":"single-038","kind":"single","turns":[{"text":"上个月的报销单还没批，催一下财务","expect":{"type":"route","bao":"报销宝","thread":null}}]}
+{"id":"single-039","kind":"single","turns":[{"text":"招待客户吃饭的发票怎么填事由","expect":{"type":"route","bao":"报销宝","thread":null}}]}
+{"id":"single-040","kind":"single","turns":[{"text":"差旅补贴标准是多少一天","expect":{"type":"route","bao":"报销宝","thread":null}}]}
+{"id":"single-041","kind":"single","turns":[{"text":"帮我列一份可以接触的早期投资人","expect":{"type":"route","bao":"融资宝","thread":null}}]}
+{"id":"single-042","kind":"single","turns":[{"text":"投资人问我们的护城河是什么，怎么答","expect":{"type":"route","bao":"融资宝","thread":null}}]}
+{"id":"single-043","kind":"single","turns":[{"text":"估值 5000 万合理吗","expect":{"type":"route","bao":"融资宝","thread":null}}]}
+{"id":"single-044","kind":"single","turns":[{"text":"TS 里的优先清算权是什么意思","expect":{"type":"route","bao":"融资宝","thread":null}}]}
+{"id":"single-045","kind":"single","turns":[{"text":"帮我准备一个一分钟的电梯演讲","expect":{"type":"route","bao":"融资宝","thread":null}}]}
+{"id":"single-046","kind":"single","turns":[{"text":"小规模纳税人季度不超过 30 万要交增值税吗","expect":{"type":"route","bao":"税务宝","thread":null}}]}
+{"id":"single-047","kind":"single","turns":[{"text":"这个月的税还没报，截止哪天","expect":{"type":"route","bao":"税务宝","thread":null}}]}
+{"id":"single-048","kind":"single","turns":[{"text":"稿费收入怎么交税","expect":{"type":"route","bao":"税务宝","thread":null}}]}
+{"id":"single-049","kind":"single","turns":[{"text":"公司给我发的年终奖怎么计税更省","expect":{"type":"route","bao":"税务宝","thread":null}}]}
+{"id":"single-050","kind":"single","turns":[{"text":"发票开错了能红冲吗","expect":{"type":"route","bao":"税务宝","thread":null}}]}
+{"id":"single-051","kind":"single","turns":[{"text":"帮我写一份宝群聊功能的需求文档","expect":{"type":"route","bao":"产品宝","thread":null}}]}
+{"id":"single-052","kind":"single","turns":[{"text":"下个季度的路线图怎么排","expect":{"type":"route","bao":"产品宝","thread":null}}]}
+{"id":"single-053","kind":"single","turns":[{"text":"用户反馈说找不到设置入口，要不要改","expect":{"type":"route","bao":"产品宝","thread":null}}]}
+{"id":"single-054","kind":"single","turns":[{"text":"分析一下 Notion AI 最新的更新","expect":{"type":"route","bao":"产品宝","thread":null}}]}
+{"id":"single-055","kind":"single","turns":[{"text":"这个功能该不该收费","expect":{"type":"route","bao":"产品宝","thread":null}}]}
+{"id":"single-056","kind":"single","turns":[{"text":"海外用户付款用 Paddle 还是 Lemon Squeezy","expect":{"type":"route","bao":"海外宝","thread":null}}]}
+{"id":"single-057","kind":"single","turns":[{"text":"英文版定价要不要比中文版贵","expect":{"type":"route","bao":"海外宝","thread":null}}]}
+{"id":"single-058","kind":"single","turns":[{"text":"GDPR 对我们这种本地 App 有什么要求","expect":{"type":"route","bao":"海外宝","thread":null}}]}
+{"id":"single-059","kind":"single","turns":[{"text":"想在 Product Hunt 上发布，需要准备什么","expect":{"type":"route","bao":"海外宝","thread":null}}]}
+{"id":"single-060","kind":"single","turns":[{"text":"美国公司报税要找谁","expect":{"type":"route","bao":"海外宝","thread":null}}]}
+{"id":"single-061","kind":"single","turns":[{"text":"Kiki 更新完打不开了，白屏","expect":{"type":"route","bao":"开发宝","thread":null}}]}
+{"id":"single-062","kind":"single","turns":[{"text":"宝的右栏有时候不刷新","expect":{"type":"route","bao":"开发宝","thread":null}}]}
+{"id":"single-063","kind":"single","turns":[{"text":"帮我把版本号升到 0.3.77 发版","expect":{"type":"route","bao":"开发宝","thread":null}}]}
+{"id":"single-064","kind":"single","turns":[{"text":"打包脚本跑了二十分钟还没完","expect":{"type":"route","bao":"开发宝","thread":null}}]}
+{"id":"single-065","kind":"single","turns":[{"text":"设置页里加一个导出数据的按钮","expect":{"type":"route","bao":"开发宝","thread":null}}]}
+{"id":"single-066","kind":"single","turns":[{"text":"这个按钮 hover 的时候抖一下怎么回事","expect":{"type":"route","bao":"前端宝","thread":null}}]}
+{"id":"single-067","kind":"single","turns":[{"text":"帮我写一个暗色模式切换的组件","expect":{"type":"route","bao":"前端宝","thread":null}}]}
+{"id":"single-068","kind":"single","turns":[{"text":"flex 布局在 Safari 里错位","expect":{"type":"route","bao":"前端宝","thread":null}}]}
+{"id":"single-069","kind":"single","turns":[{"text":"页面滚动的时候顶栏要固定住","expect":{"type":"route","bao":"前端宝","thread":null}}]}
+{"id":"single-070","kind":"single","turns":[{"text":"这个动画用 CSS 还是 JS 做好","expect":{"type":"route","bao":"前端宝","thread":null}}]}
+{"id":"single-071","kind":"single","turns":[{"text":"接口返回 502，看看是不是挂了","expect":{"type":"route","bao":"后端宝","thread":null}}]}
+{"id":"single-072","kind":"single","turns":[{"text":"数据库要不要从 SQLite 换成 Postgres","expect":{"type":"route","bao":"后端宝","thread":null}}]}
+{"id":"single-073","kind":"single","turns":[{"text":"帮我写一个限流中间件","expect":{"type":"route","bao":"后端宝","thread":null}}]}
+{"id":"single-074","kind":"single","turns":[{"text":"Workers 的冷启动太慢怎么办","expect":{"type":"route","bao":"后端宝","thread":null}}]}
+{"id":"single-075","kind":"single","turns":[{"text":"登录接口要加验证码","expect":{"type":"route","bao":"后端宝","thread":null}}]}
+{"id":"single-076","kind":"single","turns":[{"text":"Mac mini 的硬盘快满了","expect":{"type":"route","bao":"运维宝","thread":null}}]}
+{"id":"single-077","kind":"single","turns":[{"text":"帮我配一个每天凌晨的自动备份","expect":{"type":"route","bao":"运维宝","thread":null}}]}
+{"id":"single-078","kind":"single","turns":[{"text":"Tailscale 连不上家里的机器了","expect":{"type":"route","bao":"运维宝","thread":null}}]}
+{"id":"single-079","kind":"single","turns":[{"text":"服务器 CPU 突然跑满","expect":{"type":"route","bao":"运维宝","thread":null}}]}
+{"id":"single-080","kind":"single","turns":[{"text":"远程访问的域名证书快过期了","expect":{"type":"route","bao":"运维宝","thread":null}}]}
+{"id":"single-081","kind":"single","turns":[{"text":"SwiftUI 的列表滑动很卡","expect":{"type":"route","bao":"iOS宝","thread":null}}]}
+{"id":"single-082","kind":"single","turns":[{"text":"TestFlight 怎么邀请外部测试员","expect":{"type":"route","bao":"iOS宝","thread":null}}]}
+{"id":"single-083","kind":"single","turns":[{"text":"App Store 审核被拒了，说缺隐私说明","expect":{"type":"route","bao":"iOS宝","thread":null}}]}
+{"id":"single-084","kind":"single","turns":[{"text":"推送通知在后台收不到","expect":{"type":"route","bao":"iOS宝","thread":null}}]}
+{"id":"single-085","kind":"single","turns":[{"text":"做个 iPhone 小组件，显示今天的待办","expect":{"type":"route","bao":"iOS宝","thread":null}}]}
+{"id":"single-086","kind":"single","turns":[{"text":"帮我抓一下这个网站所有商品的价格","expect":{"type":"route","bao":"爬虫宝","thread":null}}]}
+{"id":"single-087","kind":"single","turns":[{"text":"被反爬了一直返回 403","expect":{"type":"route","bao":"爬虫宝","thread":null}}]}
+{"id":"single-088","kind":"single","turns":[{"text":"抓到的数据里有很多重复的，怎么去重","expect":{"type":"route","bao":"爬虫宝","thread":null}}]}
+{"id":"single-089","kind":"single","turns":[{"text":"写个脚本每天抓推特上某几个账号的推文","expect":{"type":"route","bao":"爬虫宝","thread":null}}]}
+{"id":"single-090","kind":"single","turns":[{"text":"这个页面是 JS 渲染的，requests 抓不到","expect":{"type":"route","bao":"爬虫宝","thread":null}}]}
+{"id":"single-091","kind":"single","turns":[{"text":"帮我画一个近 30 天日活的折线图","expect":{"type":"route","bao":"数据宝","thread":null}}]}
+{"id":"single-092","kind":"single","turns":[{"text":"这两组数据的差异显著吗","expect":{"type":"route","bao":"数据宝","thread":null}}]}
+{"id":"single-093","kind":"single","turns":[{"text":"SQL 写个按周分组统计的查询","expect":{"type":"route","bao":"数据宝","thread":null}}]}
+{"id":"single-094","kind":"single","turns":[{"text":"Excel 里的数据透视表怎么做","expect":{"type":"route","bao":"数据宝","thread":null}}]}
+{"id":"single-095","kind":"single","turns":[{"text":"算一下每个渠道的转化率","expect":{"type":"route","bao":"数据宝","thread":null}}]}
+{"id":"single-096","kind":"single","turns":[{"text":"DeepSeek 新出的模型效果怎么样","expect":{"type":"route","bao":"AI宝","thread":null}}]}
+{"id":"single-097","kind":"single","turns":[{"text":"这个提示词怎么改能让输出更稳定","expect":{"type":"route","bao":"AI宝","thread":null}}]}
+{"id":"single-098","kind":"single","turns":[{"text":"MCP 和 function calling 有什么区别","expect":{"type":"route","bao":"AI宝","thread":null}}]}
+{"id":"single-099","kind":"single","turns":[{"text":"帮我研究一下 OpenAI 的 Agents SDK","expect":{"type":"route","bao":"AI宝","thread":null}}]}
+{"id":"single-100","kind":"single","turns":[{"text":"RAG 的召回率怎么提高","expect":{"type":"route","bao":"AI宝","thread":null}}]}
+{"id":"single-101","kind":"single","turns":[{"text":"宝库里怎么上架一个新宝","expect":{"type":"route","bao":"插件宝","thread":null}}]}
+{"id":"single-102","kind":"single","turns":[{"text":"想接一个 Notion 插件进 Kiki","expect":{"type":"route","bao":"插件宝","thread":null}}]}
+{"id":"single-103","kind":"single","turns":[{"text":"插件卸载以后数据会删吗","expect":{"type":"route","bao":"插件宝","thread":null}}]}
+{"id":"single-104","kind":"single","turns":[{"text":"第三方插件的权限怎么限制","expect":{"type":"route","bao":"插件宝","thread":null}}]}
+{"id":"single-105","kind":"single","turns":[{"text":"帮我做一个天气插件","expect":{"type":"route","bao":"插件宝","thread":null}}]}
+{"id":"single-106","kind":"single","turns":[{"text":"API 密钥不小心推到 GitHub 了怎么办","expect":{"type":"route","bao":"安全宝","thread":null}}]}
+{"id":"single-107","kind":"single","turns":[{"text":"App 要不要做代码混淆","expect":{"type":"route","bao":"安全宝","thread":null}}]}
+{"id":"single-108","kind":"single","turns":[{"text":"检查一下我们有没有 SQL 注入","expect":{"type":"route","bao":"安全宝","thread":null}}]}
+{"id":"single-109","kind":"single","turns":[{"text":"密码用什么方式存比较安全","expect":{"type":"route","bao":"安全宝","thread":null}}]}
+{"id":"single-110","kind":"single","turns":[{"text":"有人在扫我服务器的端口","expect":{"type":"route","bao":"安全宝","thread":null}}]}
+{"id":"single-111","kind":"single","turns":[{"text":"帮我画一个新的 App 图标","expect":{"type":"route","bao":"设计宝","thread":null}}]}
+{"id":"single-112","kind":"single","turns":[{"text":"这套配色太花了，换成黑白灰","expect":{"type":"route","bao":"设计宝","thread":null}}]}
+{"id":"single-113","kind":"single","turns":[{"text":"按钮圆角用 8 还是 12","expect":{"type":"route","bao":"设计宝","thread":null}}]}
+{"id":"single-114","kind":"single","turns":[{"text":"宝的头像能不能更可爱一点","expect":{"type":"route","bao":"设计宝","thread":null}}]}
+{"id":"single-115","kind":"single","turns":[{"text":"安装窗口的背景图重新设计一下","expect":{"type":"route","bao":"设计宝","thread":null}}]}
+{"id":"single-116","kind":"single","turns":[{"text":"帮我给路由模块写单元测试","expect":{"type":"route","bao":"测试宝","thread":null}}]}
+{"id":"single-117","kind":"single","turns":[{"text":"测试覆盖率怎么统计","expect":{"type":"route","bao":"测试宝","thread":null}}]}
+{"id":"single-118","kind":"single","turns":[{"text":"这个测试时好时坏，怎么查","expect":{"type":"route","bao":"测试宝","thread":null}}]}
+{"id":"single-119","kind":"single","turns":[{"text":"发版前要跑哪些回归测试","expect":{"type":"route","bao":"测试宝","thread":null}}]}
+{"id":"single-120","kind":"single","turns":[{"text":"压测一下接口能扛多少并发","expect":{"type":"route","bao":"测试宝","thread":null}}]}
+{"id":"single-121","kind":"single","turns":[{"text":"BTC 跌破 9 万了，要不要抄底","expect":{"type":"route","bao":"加密宝","thread":null}}]}
+{"id":"single-122","kind":"single","turns":[{"text":"ETH 质押的收益现在多少","expect":{"type":"route","bao":"加密宝","thread":null}}]}
+{"id":"single-123","kind":"single","turns":[{"text":"我的仓位太重了，帮我看看怎么减","expect":{"type":"route","bao":"加密宝","thread":null}}]}
+{"id":"single-124","kind":"single","turns":[{"text":"SOL 最近为什么涨这么猛","expect":{"type":"route","bao":"加密宝","thread":null}}]}
+{"id":"single-125","kind":"single","turns":[{"text":"山寨季是不是要来了","expect":{"type":"route","bao":"加密宝","thread":null}}]}
+{"id":"single-126","kind":"single","turns":[{"text":"苹果的财报什么时候出","expect":{"type":"route","bao":"美股宝","thread":null}}]}
+{"id":"single-127","kind":"single","turns":[{"text":"特斯拉现在的市盈率高不高","expect":{"type":"route","bao":"美股宝","thread":null}}]}
+{"id":"single-128","kind":"single","turns":[{"text":"每月定投 QQQ 还是 VOO","expect":{"type":"route","bao":"美股宝","thread":null}}]}
+{"id":"single-129","kind":"single","turns":[{"text":"港股的腾讯能不能加仓","expect":{"type":"route","bao":"美股宝","thread":null}}]}
+{"id":"single-130","kind":"single","turns":[{"text":"帮我分析一下微软的云业务增速","expect":{"type":"route","bao":"美股宝","thread":null}}]}
+{"id":"single-131","kind":"single","turns":[{"text":"沪深300 指数基金哪只费率最低","expect":{"type":"route","bao":"A股宝","thread":null}}]}
+{"id":"single-132","kind":"single","turns":[{"text":"白酒板块还能不能拿","expect":{"type":"route","bao":"A股宝","thread":null}}]}
+{"id":"single-133","kind":"single","turns":[{"text":"帮我看下我的基金组合是不是太集中","expect":{"type":"route","bao":"A股宝","thread":null}}]}
+{"id":"single-134","kind":"single","turns":[{"text":"可转债打新中签了怎么办","expect":{"type":"route","bao":"A股宝","thread":null}}]}
+{"id":"single-135","kind":"single","turns":[{"text":"明天开盘会不会低开","expect":{"type":"route","bao":"A股宝","thread":null}}]}
+{"id":"single-136","kind":"single","turns":[{"text":"这个钱包地址最近在买什么币","expect":{"type":"route","bao":"链上宝","thread":null}}]}
+{"id":"single-137","kind":"single","turns":[{"text":"Uniswap 上提供流动性的无常损失怎么算","expect":{"type":"route","bao":"链上宝","thread":null}}]}
+{"id":"single-138","kind":"single","turns":[{"text":"哪些项目可能发空投","expect":{"type":"route","bao":"链上宝","thread":null}}]}
+{"id":"single-139","kind":"single","turns":[{"text":"助记词怎么备份最安全","expect":{"type":"route","bao":"链上宝","thread":null}}]}
+{"id":"single-140","kind":"single","turns":[{"text":"跨链桥转了两个小时还没到账","expect":{"type":"route","bao":"链上宝","thread":null}}]}
+{"id":"single-141","kind":"single","turns":[{"text":"帮我写一个 RSI 超卖买入的策略","expect":{"type":"route","bao":"量化宝","thread":null}}]}
+{"id":"single-142","kind":"single","turns":[{"text":"回测的时候怎么避免未来函数","expect":{"type":"route","bao":"量化宝","thread":null}}]}
+{"id":"single-143","kind":"single","turns":[{"text":"交易机器人下单失败了，看下日志","expect":{"type":"route","bao":"量化宝","thread":null}}]}
+{"id":"single-144","kind":"single","turns":[{"text":"最大回撤 40% 是不是太高","expect":{"type":"route","bao":"量化宝","thread":null}}]}
+{"id":"single-145","kind":"single","turns":[{"text":"用 backtrader 还是 vectorbt","expect":{"type":"route","bao":"量化宝","thread":null}}]}
+{"id":"single-146","kind":"single","turns":[{"text":"十万块存定期还是买货基","expect":{"type":"route","bao":"理财宝","thread":null}}]}
+{"id":"single-147","kind":"single","turns":[{"text":"大额存单现在利率多少","expect":{"type":"route","bao":"理财宝","thread":null}}]}
+{"id":"single-148","kind":"single","turns":[{"text":"帮我做一个资产配置方案，稳健型","expect":{"type":"route","bao":"理财宝","thread":null}}]}
+{"id":"single-149","kind":"single","turns":[{"text":"银行推荐的结构性存款靠谱吗","expect":{"type":"route","bao":"理财宝","thread":null}}]}
+{"id":"single-150","kind":"single","turns":[{"text":"应急资金留几个月的开销合适","expect":{"type":"route","bao":"理财宝","thread":null}}]}
+{"id":"single-151","kind":"single","turns":[{"text":"现在是不是买房的好时候","expect":{"type":"route","bao":"房产宝","thread":null}}]}
+{"id":"single-152","kind":"single","turns":[{"text":"公积金贷款最多能贷多少","expect":{"type":"route","bao":"房产宝","thread":null}}]}
+{"id":"single-153","kind":"single","turns":[{"text":"二手房过户要交哪些税","expect":{"type":"route","bao":"房产宝","thread":null}}]}
+{"id":"single-154","kind":"single","turns":[{"text":"租房合同到期房东要涨 10%","expect":{"type":"route","bao":"房产宝","thread":null}}]}
+{"id":"single-155","kind":"single","turns":[{"text":"LPR 降了我的房贷什么时候调","expect":{"type":"route","bao":"房产宝","thread":null}}]}
+{"id":"single-156","kind":"single","turns":[{"text":"午饭花了 32 块记一下","expect":{"type":"route","bao":"记账宝","thread":null}}]}
+{"id":"single-157","kind":"single","turns":[{"text":"这个月吃饭花了多少钱","expect":{"type":"route","bao":"记账宝","thread":null}}]}
+{"id":"single-158","kind":"single","turns":[{"text":"把上周的支出按类别汇总一下","expect":{"type":"route","bao":"记账宝","thread":null}}]}
+{"id":"single-159","kind":"single","turns":[{"text":"打车 58 记到交通里","expect":{"type":"route","bao":"记账宝","thread":null}}]}
+{"id":"single-160","kind":"single","turns":[{"text":"给我定个下个月的预算","expect":{"type":"route","bao":"记账宝","thread":null}}]}
+{"id":"single-161","kind":"single","turns":[{"text":"这个月信用卡要还多少","expect":{"type":"route","bao":"信用卡宝","thread":null}}]}
+{"id":"single-162","kind":"single","turns":[{"text":"哪张卡的机场贵宾厅权益最好","expect":{"type":"route","bao":"信用卡宝","thread":null}}]}
+{"id":"single-163","kind":"single","turns":[{"text":"信用卡提额有什么技巧","expect":{"type":"route","bao":"信用卡宝","thread":null}}]}
+{"id":"single-164","kind":"single","turns":[{"text":"分期的手续费实际年化是多少","expect":{"type":"route","bao":"信用卡宝","thread":null}}]}
+{"id":"single-165","kind":"single","turns":[{"text":"有张卡年费快扣了，能免吗","expect":{"type":"route","bao":"信用卡宝","thread":null}}]}
+{"id":"single-166","kind":"single","turns":[{"text":"今天美联储议息会议结果怎么样","expect":{"type":"route","bao":"行情宝","thread":null}}]}
+{"id":"single-167","kind":"single","turns":[{"text":"帮我总结一下今天的财经新闻","expect":{"type":"route","bao":"行情宝","thread":null}}]}
+{"id":"single-168","kind":"single","turns":[{"text":"美国 CPI 数据出了吗","expect":{"type":"route","bao":"行情宝","thread":null}}]}
+{"id":"single-169","kind":"single","turns":[{"text":"人民币汇率最近怎么走","expect":{"type":"route","bao":"行情宝","thread":null}}]}
+{"id":"single-170","kind":"single","turns":[{"text":"非农数据对市场有什么影响","expect":{"type":"route","bao":"行情宝","thread":null}}]}
+{"id":"single-171","kind":"single","turns":[{"text":"帮我记一下明天要交水电费","expect":{"type":"route","bao":"生活宝","thread":null}}]}
+{"id":"single-172","kind":"single","turns":[{"text":"家里灯泡坏了提醒我买","expect":{"type":"route","bao":"生活宝","thread":null}}]}
+{"id":"single-173","kind":"single","turns":[{"text":"周末有什么事要做的列一下","expect":{"type":"route","bao":"生活宝","thread":null}}]}
+{"id":"single-174","kind":"single","turns":[{"text":"楼下新开了家洗衣店，记一下电话","expect":{"type":"route","bao":"生活宝","thread":null}}]}
+{"id":"single-175","kind":"single","turns":[{"text":"帮我想想今天先做哪件事","expect":{"type":"route","bao":"生活宝","thread":null}}]}
+{"id":"single-176","kind":"single","turns":[{"text":"帮我选一个 2000 以内的降噪耳机","expect":{"type":"route","bao":"购物宝","thread":null}}]}
+{"id":"single-177","kind":"single","turns":[{"text":"戴森吹风机双十一会降价吗","expect":{"type":"route","bao":"购物宝","thread":null}}]}
+{"id":"single-178","kind":"single","turns":[{"text":"这件衣服尺码不对，怎么退货","expect":{"type":"route","bao":"购物宝","thread":null}}]}
+{"id":"single-179","kind":"single","turns":[{"text":"扫地机器人石头和科沃斯哪个好","expect":{"type":"route","bao":"购物宝","thread":null}}]}
+{"id":"single-180","kind":"single","turns":[{"text":"给我推荐一个好用的电动牙刷","expect":{"type":"route","bao":"购物宝","thread":null}}]}
+{"id":"single-181","kind":"single","turns":[{"text":"五一想去云南，帮我排个行程","expect":{"type":"route","bao":"旅行宝","thread":null}}]}
+{"id":"single-182","kind":"single","turns":[{"text":"去泰国要办签证吗","expect":{"type":"route","bao":"旅行宝","thread":null}}]}
+{"id":"single-183","kind":"single","turns":[{"text":"北京到成都的机票什么时候买便宜","expect":{"type":"route","bao":"旅行宝","thread":null}}]}
+{"id":"single-184","kind":"single","turns":[{"text":"三亚哪个区住着方便","expect":{"type":"route","bao":"旅行宝","thread":null}}]}
+{"id":"single-185","kind":"single","turns":[{"text":"帮我做一个出国旅行的行李清单","expect":{"type":"route","bao":"旅行宝","thread":null}}]}
+{"id":"single-186","kind":"single","turns":[{"text":"今晚想吃点清淡的，做什么","expect":{"type":"route","bao":"美食宝","thread":null}}]}
+{"id":"single-187","kind":"single","turns":[{"text":"附近有什么好吃的日料","expect":{"type":"route","bao":"美食宝","thread":null}}]}
+{"id":"single-188","kind":"single","turns":[{"text":"可乐鸡翅怎么做","expect":{"type":"route","bao":"美食宝","thread":null}}]}
+{"id":"single-189","kind":"single","turns":[{"text":"空气炸锅能做什么菜","expect":{"type":"route","bao":"美食宝","thread":null}}]}
+{"id":"single-190","kind":"single","turns":[{"text":"冰箱里有鸡蛋西红柿和土豆，能做啥","expect":{"type":"route","bao":"美食宝","thread":null}}]}
+{"id":"single-191","kind":"single","turns":[{"text":"明天早高峰去公司要多久","expect":{"type":"route","bao":"出行宝","thread":null}}]}
+{"id":"single-192","kind":"single","turns":[{"text":"车子有个违章要处理","expect":{"type":"route","bao":"出行宝","thread":null}}]}
+{"id":"single-193","kind":"single","turns":[{"text":"轮胎该换了吗，开了四年","expect":{"type":"route","bao":"出行宝","thread":null}}]}
+{"id":"single-194","kind":"single","turns":[{"text":"帮我叫个车去机场","expect":{"type":"route","bao":"出行宝","thread":null}}]}
+{"id":"single-195","kind":"single","turns":[{"text":"车险快到期了，续哪家","expect":{"type":"route","bao":"出行宝","thread":null}}]}
+{"id":"single-196","kind":"single","turns":[{"text":"下个月搬家，找哪家搬家公司","expect":{"type":"route","bao":"搬家宝","thread":null}}]}
+{"id":"single-197","kind":"single","turns":[{"text":"租房看房要注意什么","expect":{"type":"route","bao":"搬家宝","thread":null}}]}
+{"id":"single-198","kind":"single","turns":[{"text":"厨房装修预算怎么分配","expect":{"type":"route","bao":"搬家宝","thread":null}}]}
+{"id":"single-199","kind":"single","turns":[{"text":"新房甲醛多久能散","expect":{"type":"route","bao":"搬家宝","thread":null}}]}
+{"id":"single-200","kind":"single","turns":[{"text":"帮我列一个搬家要带的东西清单","expect":{"type":"route","bao":"搬家宝","thread":null}}]}
+{"id":"single-201","kind":"single","turns":[{"text":"猫最近不吃东西","expect":{"type":"route","bao":"宠物宝","thread":null}}]}
+{"id":"single-202","kind":"single","turns":[{"text":"猫砂用豆腐砂还是膨润土","expect":{"type":"route","bao":"宠物宝","thread":null}}]}
+{"id":"single-203","kind":"single","turns":[{"text":"狗狗可以吃葡萄吗","expect":{"type":"route","bao":"宠物宝","thread":null}}]}
+{"id":"single-204","kind":"single","turns":[{"text":"猫老抓沙发怎么办","expect":{"type":"route","bao":"宠物宝","thread":null}}]}
+{"id":"single-205","kind":"single","turns":[{"text":"给猫选一款主粮","expect":{"type":"route","bao":"宠物宝","thread":null}}]}
+{"id":"single-206","kind":"single","turns":[{"text":"明天见客户穿什么合适","expect":{"type":"route","bao":"穿搭宝","thread":null}}]}
+{"id":"single-207","kind":"single","turns":[{"text":"冬天羽绒服怎么搭不显胖","expect":{"type":"route","bao":"穿搭宝","thread":null}}]}
+{"id":"single-208","kind":"single","turns":[{"text":"干皮用什么面霜","expect":{"type":"route","bao":"穿搭宝","thread":null}}]}
+{"id":"single-209","kind":"single","turns":[{"text":"小个子适合什么裤型","expect":{"type":"route","bao":"穿搭宝","thread":null}}]}
+{"id":"single-210","kind":"single","turns":[{"text":"防晒霜每天都要涂吗","expect":{"type":"route","bao":"穿搭宝","thread":null}}]}
+{"id":"single-211","kind":"single","turns":[{"text":"下周三下午有空吗","expect":{"type":"route","bao":"日程宝","thread":null}}]}
+{"id":"single-212","kind":"single","turns":[{"text":"提醒我每天晚上十点吃药","expect":{"type":"route","bao":"日程宝","thread":null}}]}
+{"id":"single-213","kind":"single","turns":[{"text":"把周五的聚餐挪到周六","expect":{"type":"route","bao":"日程宝","thread":null}}]}
+{"id":"single-214","kind":"single","turns":[{"text":"这周还有哪些事没做","expect":{"type":"route","bao":"日程宝","thread":null}}]}
+{"id":"single-215","kind":"single","turns":[{"text":"明早八点叫我起床","expect":{"type":"route","bao":"日程宝","thread":null}}]}
+{"id":"single-216","kind":"single","turns":[{"text":"身份证丢了怎么补办","expect":{"type":"route","bao":"证件宝","thread":null}}]}
+{"id":"single-217","kind":"single","turns":[{"text":"驾照快到期了怎么换","expect":{"type":"route","bao":"证件宝","thread":null}}]}
+{"id":"single-218","kind":"single","turns":[{"text":"社保断缴一个月有影响吗","expect":{"type":"route","bao":"证件宝","thread":null}}]}
+{"id":"single-219","kind":"single","turns":[{"text":"居住证怎么办理","expect":{"type":"route","bao":"证件宝","thread":null}}]}
+{"id":"single-220","kind":"single","turns":[{"text":"港澳通行证续签要多久","expect":{"type":"route","bao":"证件宝","thread":null}}]}
+{"id":"single-221","kind":"single","turns":[{"text":"妈妈生日送什么好","expect":{"type":"route","bao":"礼物宝","thread":null}}]}
+{"id":"single-222","kind":"single","turns":[{"text":"给同事送个乔迁礼物，500 以内","expect":{"type":"route","bao":"礼物宝","thread":null}}]}
+{"id":"single-223","kind":"single","turns":[{"text":"情人节有什么不俗气的礼物","expect":{"type":"route","bao":"礼物宝","thread":null}}]}
+{"id":"single-224","kind":"single","turns":[{"text":"朋友生孩子了送什么","expect":{"type":"route","bao":"礼物宝","thread":null}}]}
+{"id":"single-225","kind":"single","turns":[{"text":"圣诞节给小侄子买个玩具","expect":{"type":"route","bao":"礼物宝","thread":null}}]}
+{"id":"single-226","kind":"single","turns":[{"text":"我的快递三天没动了","expect":{"type":"route","bao":"快递宝","thread":null}}]}
+{"id":"single-227","kind":"single","turns":[{"text":"寄一箱书去广州哪家便宜","expect":{"type":"route","bao":"快递宝","thread":null}}]}
+{"id":"single-228","kind":"single","turns":[{"text":"旧显示器想挂闲鱼卖多少钱","expect":{"type":"route","bao":"快递宝","thread":null}}]}
+{"id":"single-229","kind":"single","turns":[{"text":"顺丰怎么预约上门取件","expect":{"type":"route","bao":"快递宝","thread":null}}]}
+{"id":"single-230","kind":"single","turns":[{"text":"二手 iPhone 卖了怎么防骗","expect":{"type":"route","bao":"快递宝","thread":null}}]}
+{"id":"single-231","kind":"single","turns":[{"text":"iPhone 电池健康 80% 要换吗","expect":{"type":"route","bao":"手机宝","thread":null}}]}
+{"id":"single-232","kind":"single","turns":[{"text":"Mac 怎么录屏带声音","expect":{"type":"route","bao":"手机宝","thread":null}}]}
+{"id":"single-233","kind":"single","turns":[{"text":"家里 WiFi 好慢","expect":{"type":"route","bao":"手机宝","thread":null}}]}
+{"id":"single-234","kind":"single","turns":[{"text":"AirPods 一只没声音了","expect":{"type":"route","bao":"手机宝","thread":null}}]}
+{"id":"single-235","kind":"single","turns":[{"text":"电脑开机特别慢","expect":{"type":"route","bao":"手机宝","thread":null}}]}
+{"id":"single-236","kind":"single","turns":[{"text":"今天微博热搜第一是什么","expect":{"type":"route","bao":"八卦宝","thread":null}}]}
+{"id":"single-237","kind":"single","turns":[{"text":"那个明星离婚是真的吗","expect":{"type":"route","bao":"八卦宝","thread":null}}]}
+{"id":"single-238","kind":"single","turns":[{"text":"最近有什么综艺火了","expect":{"type":"route","bao":"八卦宝","thread":null}}]}
+{"id":"single-239","kind":"single","turns":[{"text":"周杰伦新专辑出了没","expect":{"type":"route","bao":"八卦宝","thread":null}}]}
+{"id":"single-240","kind":"single","turns":[{"text":"今年金马奖谁拿了影帝","expect":{"type":"route","bao":"八卦宝","thread":null}}]}
+{"id":"single-241","kind":"single","turns":[{"text":"帮我做一个在家练的徒手训练计划","expect":{"type":"route","bao":"健身宝","thread":null}}]}
+{"id":"single-242","kind":"single","turns":[{"text":"深蹲膝盖疼是动作不对吗","expect":{"type":"route","bao":"健身宝","thread":null}}]}
+{"id":"single-243","kind":"single","turns":[{"text":"练完腿第二天走不动正常吗","expect":{"type":"route","bao":"健身宝","thread":null}}]}
+{"id":"single-244","kind":"single","turns":[{"text":"引体向上一个都拉不上去怎么练","expect":{"type":"route","bao":"健身宝","thread":null}}]}
+{"id":"single-245","kind":"single","turns":[{"text":"健身房办年卡划算吗","expect":{"type":"route","bao":"健身宝","thread":null}}]}
+{"id":"single-246","kind":"single","turns":[{"text":"一个鸡蛋多少热量","expect":{"type":"route","bao":"饮食宝","thread":null}}]}
+{"id":"single-247","kind":"single","turns":[{"text":"减脂期能不能吃水果","expect":{"type":"route","bao":"饮食宝","thread":null}}]}
+{"id":"single-248","kind":"single","turns":[{"text":"帮我配一周的低碳水食谱","expect":{"type":"route","bao":"饮食宝","thread":null}}]}
+{"id":"single-249","kind":"single","turns":[{"text":"蛋白粉一天喝几勺","expect":{"type":"route","bao":"饮食宝","thread":null}}]}
+{"id":"single-250","kind":"single","turns":[{"text":"晚上饿了吃什么不胖","expect":{"type":"route","bao":"饮食宝","thread":null}}]}
+{"id":"single-251","kind":"single","turns":[{"text":"最近老是凌晨三点醒","expect":{"type":"route","bao":"睡眠宝","thread":null}}]}
+{"id":"single-252","kind":"single","turns":[{"text":"午睡多久最合适","expect":{"type":"route","bao":"睡眠宝","thread":null}}]}
+{"id":"single-253","kind":"single","turns":[{"text":"褪黑素能长期吃吗","expect":{"type":"route","bao":"睡眠宝","thread":null}}]}
+{"id":"single-254","kind":"single","turns":[{"text":"帮我调一下作息，想十一点前睡","expect":{"type":"route","bao":"睡眠宝","thread":null}}]}
+{"id":"single-255","kind":"single","turns":[{"text":"晚上总是做梦睡不踏实","expect":{"type":"route","bao":"睡眠宝","thread":null}}]}
+{"id":"single-256","kind":"single","turns":[{"text":"喉咙痛两天了要去医院吗","expect":{"type":"route","bao":"看病宝","thread":null}}]}
+{"id":"single-257","kind":"single","turns":[{"text":"帮我挂个下周的皮肤科","expect":{"type":"route","bao":"看病宝","thread":null}}]}
+{"id":"single-258","kind":"single","turns":[{"text":"布洛芬和对乙酰氨基酚有什么区别","expect":{"type":"route","bao":"看病宝","thread":null}}]}
+{"id":"single-259","kind":"single","turns":[{"text":"甲状腺结节 3 类要紧吗","expect":{"type":"route","bao":"看病宝","thread":null}}]}
+{"id":"single-260","kind":"single","turns":[{"text":"这个药饭前吃还是饭后吃","expect":{"type":"route","bao":"看病宝","thread":null}}]}
+{"id":"single-261","kind":"single","turns":[{"text":"最近压力好大，什么都不想做","expect":{"type":"route","bao":"心理宝","thread":null}}]}
+{"id":"single-262","kind":"single","turns":[{"text":"有没有简单的冥想方法","expect":{"type":"route","bao":"心理宝","thread":null}}]}
+{"id":"single-263","kind":"single","turns":[{"text":"总是焦虑睡不着怎么办","expect":{"type":"route","bao":"心理宝","thread":null}}]}
+{"id":"single-264","kind":"single","turns":[{"text":"跟同事闹矛盾心情很差","expect":{"type":"route","bao":"心理宝","thread":null}}]}
+{"id":"single-265","kind":"single","turns":[{"text":"怎么才能不那么拖延","expect":{"type":"route","bao":"心理宝","thread":null}}]}
+{"id":"single-266","kind":"single","turns":[{"text":"智齿要不要拔","expect":{"type":"route","bao":"牙齿宝","thread":null}}]}
+{"id":"single-267","kind":"single","turns":[{"text":"刷牙出血是怎么回事","expect":{"type":"route","bao":"牙齿宝","thread":null}}]}
+{"id":"single-268","kind":"single","turns":[{"text":"洗牙多久一次合适","expect":{"type":"route","bao":"牙齿宝","thread":null}}]}
+{"id":"single-269","kind":"single","turns":[{"text":"冷水一碰牙就酸","expect":{"type":"route","bao":"牙齿宝","thread":null}}]}
+{"id":"single-270","kind":"single","turns":[{"text":"种一颗牙大概多少钱","expect":{"type":"route","bao":"牙齿宝","thread":null}}]}
+{"id":"single-271","kind":"single","turns":[{"text":"跑步膝盖外侧疼","expect":{"type":"route","bao":"跑步宝","thread":null}}]}
+{"id":"single-272","kind":"single","turns":[{"text":"配速 6 分怎么提到 5 分半","expect":{"type":"route","bao":"跑步宝","thread":null}}]}
+{"id":"single-273","kind":"single","turns":[{"text":"跑鞋选缓震还是竞速","expect":{"type":"route","bao":"跑步宝","thread":null}}]}
+{"id":"single-274","kind":"single","turns":[{"text":"帮我报一个明年春天的马拉松","expect":{"type":"route","bao":"跑步宝","thread":null}}]}
+{"id":"single-275","kind":"single","turns":[{"text":"长距离跑要补给什么","expect":{"type":"route","bao":"跑步宝","thread":null}}]}
+{"id":"single-276","kind":"single","turns":[{"text":"我是湿气重吗，舌苔很厚","expect":{"type":"route","bao":"中医宝","thread":null}}]}
+{"id":"single-277","kind":"single","turns":[{"text":"冬天手脚冰凉喝什么调理","expect":{"type":"route","bao":"中医宝","thread":null}}]}
+{"id":"single-278","kind":"single","turns":[{"text":"艾灸有用吗","expect":{"type":"route","bao":"中医宝","thread":null}}]}
+{"id":"single-279","kind":"single","turns":[{"text":"枸杞每天吃多少合适","expect":{"type":"route","bao":"中医宝","thread":null}}]}
+{"id":"single-280","kind":"single","turns":[{"text":"针灸治颈椎病效果怎么样","expect":{"type":"route","bao":"中医宝","thread":null}}]}
+{"id":"single-281","kind":"single","turns":[{"text":"abandon 和 desert 有什么区别","expect":{"type":"route","bao":"英语宝","thread":null}}]}
+{"id":"single-282","kind":"single","turns":[{"text":"帮我练一段英语口语，模拟面试","expect":{"type":"route","bao":"英语宝","thread":null}}]}
+{"id":"single-283","kind":"single","turns":[{"text":"这句英文语法对吗：He don't like it","expect":{"type":"route","bao":"英语宝","thread":null}}]}
+{"id":"single-284","kind":"single","turns":[{"text":"托福写作怎么拿高分","expect":{"type":"route","bao":"英语宝","thread":null}}]}
+{"id":"single-285","kind":"single","turns":[{"text":"推荐几个练听力的播客","expect":{"type":"route","bao":"英语宝","thread":null}}]}
+{"id":"single-286","kind":"single","turns":[{"text":"日语的は和が怎么区分","expect":{"type":"route","bao":"日语宝","thread":null}}]}
+{"id":"single-287","kind":"single","turns":[{"text":"帮我翻译这句日语：お疲れ様です","expect":{"type":"route","bao":"日语宝","thread":null}}]}
+{"id":"single-288","kind":"single","turns":[{"text":"五十音片假名老是记不住","expect":{"type":"route","bao":"日语宝","thread":null}}]}
+{"id":"single-289","kind":"single","turns":[{"text":"看什么日剧学日语好","expect":{"type":"route","bao":"日语宝","thread":null}}]}
+{"id":"single-290","kind":"single","turns":[{"text":"N2 和 N1 差距大吗","expect":{"type":"route","bao":"日语宝","thread":null}}]}
+{"id":"single-291","kind":"single","turns":[{"text":"推荐几本讲投资思维的书","expect":{"type":"route","bao":"读书宝","thread":null}}]}
+{"id":"single-292","kind":"single","turns":[{"text":"《人类简史》讲了什么","expect":{"type":"route","bao":"读书宝","thread":null}}]}
+{"id":"single-293","kind":"single","turns":[{"text":"帮我做一份《原则》的读书笔记","expect":{"type":"route","bao":"读书宝","thread":null}}]}
+{"id":"single-294","kind":"single","turns":[{"text":"一年读 50 本书怎么安排","expect":{"type":"route","bao":"读书宝","thread":null}}]}
+{"id":"single-295","kind":"single","turns":[{"text":"有没有好看的科幻小说推荐","expect":{"type":"route","bao":"读书宝","thread":null}}]}
+{"id":"single-296","kind":"single","turns":[{"text":"这道概率题怎么做：抛三次硬币至少一次正面","expect":{"type":"route","bao":"数学宝","thread":null}}]}
+{"id":"single-297","kind":"single","turns":[{"text":"讲讲贝叶斯公式","expect":{"type":"route","bao":"数学宝","thread":null}}]}
+{"id":"single-298","kind":"single","turns":[{"text":"动态规划怎么入门","expect":{"type":"route","bao":"数学宝","thread":null}}]}
+{"id":"single-299","kind":"single","turns":[{"text":"矩阵的特征值有什么直观意义","expect":{"type":"route","bao":"数学宝","thread":null}}]}
+{"id":"single-300","kind":"single","turns":[{"text":"这道 LeetCode 两数之和有更快的解法吗","expect":{"type":"route","bao":"数学宝","thread":null}}]}
+{"id":"single-301","kind":"single","turns":[{"text":"有什么好的 AI 网课推荐","expect":{"type":"route","bao":"课程宝","thread":null}}]}
+{"id":"single-302","kind":"single","turns":[{"text":"CFA 一级要准备多久","expect":{"type":"route","bao":"课程宝","thread":null}}]}
+{"id":"single-303","kind":"single","turns":[{"text":"教师资格证怎么报名","expect":{"type":"route","bao":"课程宝","thread":null}}]}
+{"id":"single-304","kind":"single","turns":[{"text":"Coursera 的证书有用吗","expect":{"type":"route","bao":"课程宝","thread":null}}]}
+{"id":"single-305","kind":"single","turns":[{"text":"帮我找一个产品经理的系统课","expect":{"type":"route","bao":"课程宝","thread":null}}]}
+{"id":"single-306","kind":"single","turns":[{"text":"秦始皇为什么要焚书坑儒","expect":{"type":"route","bao":"历史宝","thread":null}}]}
+{"id":"single-307","kind":"single","turns":[{"text":"罗马帝国是怎么衰落的","expect":{"type":"route","bao":"历史宝","thread":null}}]}
+{"id":"single-308","kind":"single","turns":[{"text":"讲讲王阳明的心学","expect":{"type":"route","bao":"历史宝","thread":null}}]}
+{"id":"single-309","kind":"single","turns":[{"text":"二战为什么德国会输","expect":{"type":"route","bao":"历史宝","thread":null}}]}
+{"id":"single-310","kind":"single","turns":[{"text":"苏格拉底和柏拉图是什么关系","expect":{"type":"route","bao":"历史宝","thread":null}}]}
+{"id":"single-311","kind":"single","turns":[{"text":"Python 的装饰器怎么理解","expect":{"type":"route","bao":"编程课宝","thread":null}}]}
+{"id":"single-312","kind":"single","turns":[{"text":"零基础学编程从哪门语言开始","expect":{"type":"route","bao":"编程课宝","thread":null}}]}
+{"id":"single-313","kind":"single","turns":[{"text":"Go 语言的协程是什么","expect":{"type":"route","bao":"编程课宝","thread":null}}]}
+{"id":"single-314","kind":"single","turns":[{"text":"推荐一个适合初学者的练手项目","expect":{"type":"route","bao":"编程课宝","thread":null}}]}
+{"id":"single-315","kind":"single","turns":[{"text":"面向对象和函数式有什么区别","expect":{"type":"route","bao":"编程课宝","thread":null}}]}
+{"id":"single-316","kind":"single","turns":[{"text":"帮我读一下这篇 arXiv 论文的摘要","expect":{"type":"route","bao":"论文宝","thread":null}}]}
+{"id":"single-317","kind":"single","turns":[{"text":"文献综述怎么写结构比较好","expect":{"type":"route","bao":"论文宝","thread":null}}]}
+{"id":"single-318","kind":"single","turns":[{"text":"找几篇关于多智能体协作的论文","expect":{"type":"route","bao":"论文宝","thread":null}}]}
+{"id":"single-319","kind":"single","turns":[{"text":"参考文献用 APA 格式怎么写","expect":{"type":"route","bao":"论文宝","thread":null}}]}
+{"id":"single-320","kind":"single","turns":[{"text":"这篇论文的实验设计有什么问题","expect":{"type":"route","bao":"论文宝","thread":null}}]}
+{"id":"single-321","kind":"single","turns":[{"text":"今天科技圈有什么新闻","expect":{"type":"route","bao":"新闻宝","thread":null}}]}
+{"id":"single-322","kind":"single","turns":[{"text":"苹果发布会说了什么","expect":{"type":"route","bao":"新闻宝","thread":null}}]}
+{"id":"single-323","kind":"single","turns":[{"text":"帮我每天早上推送一份 AI 新闻摘要","expect":{"type":"route","bao":"新闻宝","thread":null}}]}
+{"id":"single-324","kind":"single","turns":[{"text":"OpenAI 最近又有什么动作","expect":{"type":"route","bao":"新闻宝","thread":null}}]}
+{"id":"single-325","kind":"single","turns":[{"text":"这周国内互联网大事有哪些","expect":{"type":"route","bao":"新闻宝","thread":null}}]}
+{"id":"single-326","kind":"single","turns":[{"text":"考研数学一要复习多久","expect":{"type":"route","bao":"考研宝","thread":null}}]}
+{"id":"single-327","kind":"single","turns":[{"text":"帮我做一个考公行测的复习计划","expect":{"type":"route","bao":"考研宝","thread":null}}]}
+{"id":"single-328","kind":"single","turns":[{"text":"在职考研选哪个学校好","expect":{"type":"route","bao":"考研宝","thread":null}}]}
+{"id":"single-329","kind":"single","turns":[{"text":"申论怎么提高","expect":{"type":"route","bao":"考研宝","thread":null}}]}
+{"id":"single-330","kind":"single","turns":[{"text":"考研英语作文模板靠谱吗","expect":{"type":"route","bao":"考研宝","thread":null}}]}
+{"id":"single-331","kind":"single","turns":[{"text":"孩子的作文写不出来怎么办","expect":{"type":"route","bao":"孩子宝","thread":null}}]}
+{"id":"single-332","kind":"single","turns":[{"text":"帮我出 10 道三年级的除法题","expect":{"type":"route","bao":"孩子宝","thread":null}}]}
+{"id":"single-333","kind":"single","turns":[{"text":"孩子背古诗总是记不住","expect":{"type":"route","bao":"孩子宝","thread":null}}]}
+{"id":"single-334","kind":"single","turns":[{"text":"英语自然拼读怎么教","expect":{"type":"route","bao":"孩子宝","thread":null}}]}
+{"id":"single-335","kind":"single","turns":[{"text":"这道小学奥数题怎么讲给孩子听","expect":{"type":"route","bao":"孩子宝","thread":null}}]}
+{"id":"single-336","kind":"single","turns":[{"text":"宝宝发烧 38 度要吃退烧药吗","expect":{"type":"route","bao":"育儿宝","thread":null}}]}
+{"id":"single-337","kind":"single","turns":[{"text":"两岁孩子不爱说话正常吗","expect":{"type":"route","bao":"育儿宝","thread":null}}]}
+{"id":"single-338","kind":"single","turns":[{"text":"孩子晚上不肯睡觉怎么办","expect":{"type":"route","bao":"育儿宝","thread":null}}]}
+{"id":"single-339","kind":"single","turns":[{"text":"早教班有必要上吗","expect":{"type":"route","bao":"育儿宝","thread":null}}]}
+{"id":"single-340","kind":"single","turns":[{"text":"孩子总是发脾气怎么沟通","expect":{"type":"route","bao":"育儿宝","thread":null}}]}
+{"id":"single-341","kind":"single","turns":[{"text":"我妈血压高，平时要注意什么","expect":{"type":"route","bao":"父母宝","thread":null}}]}
+{"id":"single-342","kind":"single","turns":[{"text":"给爸妈买什么样的体检套餐","expect":{"type":"route","bao":"父母宝","thread":null}}]}
+{"id":"single-343","kind":"single","turns":[{"text":"老人总是忘事是不是老年痴呆","expect":{"type":"route","bao":"父母宝","thread":null}}]}
+{"id":"single-344","kind":"single","turns":[{"text":"想接爸妈来住一段时间，怎么安排","expect":{"type":"route","bao":"父母宝","thread":null}}]}
+{"id":"single-345","kind":"single","turns":[{"text":"帮我给我爸选一个老人手机","expect":{"type":"route","bao":"父母宝","thread":null}}]}
+{"id":"single-346","kind":"single","turns":[{"text":"厨房的油污怎么洗","expect":{"type":"route","bao":"家务宝","thread":null}}]}
+{"id":"single-347","kind":"single","turns":[{"text":"衣柜太乱了，怎么收纳","expect":{"type":"route","bao":"家务宝","thread":null}}]}
+{"id":"single-348","kind":"single","turns":[{"text":"帮我排个家务分工表","expect":{"type":"route","bao":"家务宝","thread":null}}]}
+{"id":"single-349","kind":"single","turns":[{"text":"洗衣机多久清洗一次","expect":{"type":"route","bao":"家务宝","thread":null}}]}
+{"id":"single-350","kind":"single","turns":[{"text":"地毯上的咖啡渍怎么去掉","expect":{"type":"route","bao":"家务宝","thread":null}}]}
+{"id":"single-351","kind":"single","turns":[{"text":"朋友结婚随礼随多少","expect":{"type":"route","bao":"婚礼宝","thread":null}}]}
+{"id":"single-352","kind":"single","turns":[{"text":"婚礼伴郎要准备什么","expect":{"type":"route","bao":"婚礼宝","thread":null}}]}
+{"id":"single-353","kind":"single","turns":[{"text":"帮我写一段婚礼致辞","expect":{"type":"route","bao":"婚礼宝","thread":null}}]}
+{"id":"single-354","kind":"single","turns":[{"text":"婚宴场地怎么选","expect":{"type":"route","bao":"婚礼宝","thread":null}}]}
+{"id":"single-355","kind":"single","turns":[{"text":"婚纱照去哪拍","expect":{"type":"route","bao":"婚礼宝","thread":null}}]}
+{"id":"single-356","kind":"single","turns":[{"text":"过年给晚辈红包给多少","expect":{"type":"route","bao":"亲戚宝","thread":null}}]}
+{"id":"single-357","kind":"single","turns":[{"text":"表哥找我借钱怎么拒绝","expect":{"type":"route","bao":"亲戚宝","thread":null}}]}
+{"id":"single-358","kind":"single","turns":[{"text":"家族群里长辈转发谣言怎么回","expect":{"type":"route","bao":"亲戚宝","thread":null}}]}
+{"id":"single-359","kind":"single","turns":[{"text":"过年走亲戚的顺序怎么排","expect":{"type":"route","bao":"亲戚宝","thread":null}}]}
+{"id":"single-360","kind":"single","turns":[{"text":"帮我给舅舅写一段生日祝福","expect":{"type":"route","bao":"亲戚宝","thread":null}}]}
+{"id":"single-361","kind":"single","turns":[{"text":"这个月水电燃气一共多少","expect":{"type":"route","bao":"家庭账宝","thread":null}}]}
+{"id":"single-362","kind":"single","turns":[{"text":"家里的共同开支怎么跟老婆分摊","expect":{"type":"route","bao":"家庭账宝","thread":null}}]}
+{"id":"single-363","kind":"single","turns":[{"text":"房租下周五交，提醒我","expect":{"type":"route","bao":"家庭账宝","thread":null}}]}
+{"id":"single-364","kind":"single","turns":[{"text":"帮我做个家庭年度开支表","expect":{"type":"route","bao":"家庭账宝","thread":null}}]}
+{"id":"single-365","kind":"single","turns":[{"text":"宽带费是不是交多了","expect":{"type":"route","bao":"家庭账宝","thread":null}}]}
+{"id":"single-366","kind":"single","turns":[{"text":"给孩子买什么医疗险","expect":{"type":"route","bao":"保险宝","thread":null}}]}
+{"id":"single-367","kind":"single","turns":[{"text":"百万医疗险每年保费多少","expect":{"type":"route","bao":"保险宝","thread":null}}]}
+{"id":"single-368","kind":"single","turns":[{"text":"车险出险了怎么理赔","expect":{"type":"route","bao":"保险宝","thread":null}}]}
+{"id":"single-369","kind":"single","turns":[{"text":"重疾险买消费型还是返还型","expect":{"type":"route","bao":"保险宝","thread":null}}]}
+{"id":"single-370","kind":"single","turns":[{"text":"爸妈六十多岁还能买什么保险","expect":{"type":"route","bao":"保险宝","thread":null}}]}
+{"id":"single-371","kind":"single","turns":[{"text":"帮我剪一个一分钟的 vlog","expect":{"type":"route","bao":"视频宝","thread":null}}]}
+{"id":"single-372","kind":"single","turns":[{"text":"视频配什么背景音乐好","expect":{"type":"route","bao":"视频宝","thread":null}}]}
+{"id":"single-373","kind":"single","turns":[{"text":"Final Cut 和剪映哪个适合新手","expect":{"type":"route","bao":"视频宝","thread":null}}]}
+{"id":"single-374","kind":"single","turns":[{"text":"做一个 Kiki 的产品演示视频","expect":{"type":"route","bao":"视频宝","thread":null}}]}
+{"id":"single-375","kind":"single","turns":[{"text":"字幕怎么自动生成","expect":{"type":"route","bao":"视频宝","thread":null}}]}
+{"id":"single-376","kind":"single","turns":[{"text":"帮我写一条推文宣传新版本","expect":{"type":"route","bao":"宣传宝","thread":null}}]}
+{"id":"single-377","kind":"single","turns":[{"text":"推特怎么涨粉","expect":{"type":"route","bao":"宣传宝","thread":null}}]}
+{"id":"single-378","kind":"single","turns":[{"text":"这条推文发出去互动很低，分析一下","expect":{"type":"route","bao":"宣传宝","thread":null}}]}
+{"id":"single-379","kind":"single","turns":[{"text":"要不要找 KOL 推广","expect":{"type":"route","bao":"宣传宝","thread":null}}]}
+{"id":"single-380","kind":"single","turns":[{"text":"做一个下个月的营销计划","expect":{"type":"route","bao":"宣传宝","thread":null}}]}
+{"id":"single-381","kind":"single","turns":[{"text":"写一篇公众号文章介绍宝的概念","expect":{"type":"route","bao":"公众号宝","thread":null}}]}
+{"id":"single-382","kind":"single","turns":[{"text":"小红书封面怎么做吸引人","expect":{"type":"route","bao":"公众号宝","thread":null}}]}
+{"id":"single-383","kind":"single","turns":[{"text":"公众号打开率越来越低怎么办","expect":{"type":"route","bao":"公众号宝","thread":null}}]}
+{"id":"single-384","kind":"single","turns":[{"text":"帮我起十个小红书标题","expect":{"type":"route","bao":"公众号宝","thread":null}}]}
+{"id":"single-385","kind":"single","turns":[{"text":"视频号和公众号怎么联动","expect":{"type":"route","bao":"公众号宝","thread":null}}]}
+{"id":"single-386","kind":"single","turns":[{"text":"官网首页文案帮我改得大气一点","expect":{"type":"route","bao":"官网宝","thread":null}}]}
+{"id":"single-387","kind":"single","turns":[{"text":"落地页的转化按钮写什么","expect":{"type":"route","bao":"官网宝","thread":null}}]}
+{"id":"single-388","kind":"single","turns":[{"text":"官网的 SEO 怎么优化","expect":{"type":"route","bao":"官网宝","thread":null}}]}
+{"id":"single-389","kind":"single","turns":[{"text":"帮我写官网的常见问题页","expect":{"type":"route","bao":"官网宝","thread":null}}]}
+{"id":"single-390","kind":"single","turns":[{"text":"英文站的标题要不要用 personal AI team","expect":{"type":"route","bao":"官网宝","thread":null}}]}
+{"id":"single-391","kind":"single","turns":[{"text":"帮我润色这段文字，更简洁","expect":{"type":"route","bao":"写作宝","thread":null}}]}
+{"id":"single-392","kind":"single","turns":[{"text":"写一首关于秋天的诗","expect":{"type":"route","bao":"写作宝","thread":null}}]}
+{"id":"single-393","kind":"single","turns":[{"text":"小说开头怎么写抓人","expect":{"type":"route","bao":"写作宝","thread":null}}]}
+{"id":"single-394","kind":"single","turns":[{"text":"帮我写一篇年终总结","expect":{"type":"route","bao":"写作宝","thread":null}}]}
+{"id":"single-395","kind":"single","turns":[{"text":"这篇文章逻辑有点乱，帮我理一下","expect":{"type":"route","bao":"写作宝","thread":null}}]}
+{"id":"single-396","kind":"single","turns":[{"text":"想做一档聊 AI 的播客，怎么开始","expect":{"type":"route","bao":"播客宝","thread":null}}]}
+{"id":"single-397","kind":"single","turns":[{"text":"播客录音用什么麦克风","expect":{"type":"route","bao":"播客宝","thread":null}}]}
+{"id":"single-398","kind":"single","turns":[{"text":"帮我列一份嘉宾邀请名单","expect":{"type":"route","bao":"播客宝","thread":null}}]}
+{"id":"single-399","kind":"single","turns":[{"text":"播客剪辑怎么去掉口水音","expect":{"type":"route","bao":"播客宝","thread":null}}]}
+{"id":"single-400","kind":"single","turns":[{"text":"播客上架小宇宙要什么材料","expect":{"type":"route","bao":"播客宝","thread":null}}]}
+{"id":"single-401","kind":"single","turns":[{"text":"把这段中文翻成地道的英文","expect":{"type":"route","bao":"翻译宝","thread":null}}]}
+{"id":"single-402","kind":"single","turns":[{"text":"personal AI team 翻成中文怎么说好","expect":{"type":"route","bao":"翻译宝","thread":null}}]}
+{"id":"single-403","kind":"single","turns":[{"text":"帮我把 App 界面文字翻成日文","expect":{"type":"route","bao":"翻译宝","thread":null}}]}
+{"id":"single-404","kind":"single","turns":[{"text":"这句英文翻得太生硬了，改一下","expect":{"type":"route","bao":"翻译宝","thread":null}}]}
+{"id":"single-405","kind":"single","turns":[{"text":"术语表帮我统一一下翻译","expect":{"type":"route","bao":"翻译宝","thread":null}}]}
+{"id":"single-406","kind":"single","turns":[{"text":"帮我写一个三分钟的自我介绍","expect":{"type":"route","bao":"演讲宝","thread":null}}]}
+{"id":"single-407","kind":"single","turns":[{"text":"PPT 太多字了，帮我精简","expect":{"type":"route","bao":"演讲宝","thread":null}}]}
+{"id":"single-408","kind":"single","turns":[{"text":"上台紧张怎么办","expect":{"type":"route","bao":"演讲宝","thread":null}}]}
+{"id":"single-409","kind":"single","turns":[{"text":"公司年会的开场白怎么写","expect":{"type":"route","bao":"演讲宝","thread":null}}]}
+{"id":"single-410","kind":"single","turns":[{"text":"帮我设计一个讲产品的故事线","expect":{"type":"route","bao":"演讲宝","thread":null}}]}
+{"id":"single-411","kind":"single","turns":[{"text":"拍夜景用什么参数","expect":{"type":"route","bao":"摄影宝","thread":null}}]}
+{"id":"single-412","kind":"single","turns":[{"text":"这张照片怎么修更有氛围","expect":{"type":"route","bao":"摄影宝","thread":null}}]}
+{"id":"single-413","kind":"single","turns":[{"text":"入门相机买索尼还是富士","expect":{"type":"route","bao":"摄影宝","thread":null}}]}
+{"id":"single-414","kind":"single","turns":[{"text":"手机怎么拍出背景虚化","expect":{"type":"route","bao":"摄影宝","thread":null}}]}
+{"id":"single-415","kind":"single","turns":[{"text":"人像构图有什么技巧","expect":{"type":"route","bao":"摄影宝","thread":null}}]}
+{"id":"single-416","kind":"single","turns":[{"text":"帮我推荐一些适合工作听的歌","expect":{"type":"route","bao":"音乐宝","thread":null}}]}
+{"id":"single-417","kind":"single","turns":[{"text":"想学钢琴，成年人来得及吗","expect":{"type":"route","bao":"音乐宝","thread":null}}]}
+{"id":"single-418","kind":"single","turns":[{"text":"写一段简单的和弦进行","expect":{"type":"route","bao":"音乐宝","thread":null}}]}
+{"id":"single-419","kind":"single","turns":[{"text":"尤克里里和吉他哪个好学","expect":{"type":"route","bao":"音乐宝","thread":null}}]}
+{"id":"single-420","kind":"single","turns":[{"text":"做一个跑步用的歌单","expect":{"type":"route","bao":"音乐宝","thread":null}}]}
+{"id":"single-421","kind":"single","turns":[{"text":"黑神话悟空最后一关怎么打","expect":{"type":"route","bao":"游戏宝","thread":null}}]}
+{"id":"single-422","kind":"single","turns":[{"text":"最近有什么好玩的单机游戏","expect":{"type":"route","bao":"游戏宝","thread":null}}]}
+{"id":"single-423","kind":"single","turns":[{"text":"Switch 2 值得买吗","expect":{"type":"route","bao":"游戏宝","thread":null}}]}
+{"id":"single-424","kind":"single","turns":[{"text":"王者荣耀上分用什么英雄","expect":{"type":"route","bao":"游戏宝","thread":null}}]}
+{"id":"single-425","kind":"single","turns":[{"text":"帮我找一下原神的抽卡攻略","expect":{"type":"route","bao":"游戏宝","thread":null}}]}
+{"id":"single-426","kind":"single","turns":[{"text":"最近有什么好看的电影","expect":{"type":"route","bao":"影视宝","thread":null}}]}
+{"id":"single-427","kind":"single","turns":[{"text":"帮我推荐几部悬疑美剧","expect":{"type":"route","bao":"影视宝","thread":null}}]}
+{"id":"single-428","kind":"single","turns":[{"text":"《沙丘2》值得去影院看吗","expect":{"type":"route","bao":"影视宝","thread":null}}]}
+{"id":"single-429","kind":"single","turns":[{"text":"这部剧的结局什么意思","expect":{"type":"route","bao":"影视宝","thread":null}}]}
+{"id":"single-430","kind":"single","turns":[{"text":"宫崎骏的电影按什么顺序看","expect":{"type":"route","bao":"影视宝","thread":null}}]}
+{"id":"single-431","kind":"single","turns":[{"text":"今晚 NBA 湖人赢了吗","expect":{"type":"route","bao":"球赛宝","thread":null}}]}
+{"id":"single-432","kind":"single","turns":[{"text":"欧冠决赛什么时候","expect":{"type":"route","bao":"球赛宝","thread":null}}]}
+{"id":"single-433","kind":"single","turns":[{"text":"梅西还在踢球吗","expect":{"type":"route","bao":"球赛宝","thread":null}}]}
+{"id":"single-434","kind":"single","turns":[{"text":"中国男足这次能出线吗","expect":{"type":"route","bao":"球赛宝","thread":null}}]}
+{"id":"single-435","kind":"single","turns":[{"text":"帮我订一下周末的比赛提醒","expect":{"type":"route","bao":"球赛宝","thread":null}}]}
+{"id":"single-436","kind":"single","turns":[{"text":"冬天钓鲫鱼用什么饵","expect":{"type":"route","bao":"钓鱼宝","thread":null}}]}
+{"id":"single-437","kind":"single","turns":[{"text":"周末去哪里露营好","expect":{"type":"route","bao":"钓鱼宝","thread":null}}]}
+{"id":"single-438","kind":"single","turns":[{"text":"帐篷选几人的","expect":{"type":"route","bao":"钓鱼宝","thread":null}}]}
+{"id":"single-439","kind":"single","turns":[{"text":"路亚竿怎么选","expect":{"type":"route","bao":"钓鱼宝","thread":null}}]}
+{"id":"single-440","kind":"single","turns":[{"text":"露营要带哪些装备","expect":{"type":"route","bao":"钓鱼宝","thread":null}}]}
+{"id":"single-441","kind":"single","turns":[{"text":"多肉徒长了怎么办","expect":{"type":"route","bao":"植物宝","thread":null}}]}
+{"id":"single-442","kind":"single","turns":[{"text":"阳台能种什么菜","expect":{"type":"route","bao":"植物宝","thread":null}}]}
+{"id":"single-443","kind":"single","turns":[{"text":"绿萝多久浇一次水","expect":{"type":"route","bao":"植物宝","thread":null}}]}
+{"id":"single-444","kind":"single","turns":[{"text":"月季长虫了","expect":{"type":"route","bao":"植物宝","thread":null}}]}
+{"id":"single-445","kind":"single","turns":[{"text":"冬天怎么给植物保暖","expect":{"type":"route","bao":"植物宝","thread":null}}]}
+{"id":"single-446","kind":"single","turns":[{"text":"乐高千年隼值得买吗","expect":{"type":"route","bao":"手工宝","thread":null}}]}
+{"id":"single-447","kind":"single","turns":[{"text":"想做个木工小凳子，要什么工具","expect":{"type":"route","bao":"手工宝","thread":null}}]}
+{"id":"single-448","kind":"single","turns":[{"text":"高达模型怎么上色","expect":{"type":"route","bao":"手工宝","thread":null}}]}
+{"id":"single-449","kind":"single","turns":[{"text":"织围巾的入门教程","expect":{"type":"route","bao":"手工宝","thread":null}}]}
+{"id":"single-450","kind":"single","turns":[{"text":"拼图拼不下去了，有什么技巧","expect":{"type":"route","bao":"手工宝","thread":null}}]}
+{"id":"single-451","kind":"single","turns":[{"text":"围棋怎么入门","expect":{"type":"route","bao":"棋牌宝","thread":null}}]}
+{"id":"single-452","kind":"single","turns":[{"text":"德州扑克手里 AK 该怎么打","expect":{"type":"route","bao":"棋牌宝","thread":null}}]}
+{"id":"single-453","kind":"single","turns":[{"text":"象棋开局有哪些常见套路","expect":{"type":"route","bao":"棋牌宝","thread":null}}]}
+{"id":"single-454","kind":"single","turns":[{"text":"五子棋必胜法是真的吗","expect":{"type":"route","bao":"棋牌宝","thread":null}}]}
+{"id":"single-455","kind":"single","turns":[{"text":"斗地主怎么记牌","expect":{"type":"route","bao":"棋牌宝","thread":null}}]}
+{"id":"single-456","kind":"single","turns":[{"text":"二十万左右买什么车","expect":{"type":"route","bao":"汽车宝","thread":null}}]}
+{"id":"single-457","kind":"single","turns":[{"text":"混动和纯电哪个更省钱","expect":{"type":"route","bao":"汽车宝","thread":null}}]}
+{"id":"single-458","kind":"single","turns":[{"text":"理想 L6 值得买吗","expect":{"type":"route","bao":"汽车宝","thread":null}}]}
+{"id":"single-459","kind":"single","turns":[{"text":"电车冬天续航掉多少","expect":{"type":"route","bao":"汽车宝","thread":null}}]}
+{"id":"single-460","kind":"single","turns":[{"text":"帮我比较一下问界和理想","expect":{"type":"route","bao":"汽车宝","thread":null}}]}
+{"id":"single-461","kind":"single","turns":[{"text":"这双 AJ1 是真的假的","expect":{"type":"route","bao":"收藏宝","thread":null}}]}
+{"id":"single-462","kind":"single","turns":[{"text":"NFT 还有收藏价值吗","expect":{"type":"route","bao":"收藏宝","thread":null}}]}
+{"id":"single-463","kind":"single","turns":[{"text":"泡泡玛特隐藏款能卖多少","expect":{"type":"route","bao":"收藏宝","thread":null}}]}
+{"id":"single-464","kind":"single","turns":[{"text":"手办放久了发黄怎么办","expect":{"type":"route","bao":"收藏宝","thread":null}}]}
+{"id":"single-465","kind":"single","turns":[{"text":"我的无聊猿还值多少","expect":{"type":"route","bao":"收藏宝","thread":null}}]}
+{"id":"single-466","kind":"single","turns":[{"text":"我是天蝎座，今年运势怎么样","expect":{"type":"route","bao":"占卜宝","thread":null}}]}
+{"id":"single-467","kind":"single","turns":[{"text":"帮我抽一张塔罗牌","expect":{"type":"route","bao":"占卜宝","thread":null}}]}
+{"id":"single-468","kind":"single","turns":[{"text":"卧室床头朝哪边比较好","expect":{"type":"route","bao":"占卜宝","thread":null}}]}
+{"id":"single-469","kind":"single","turns":[{"text":"水逆是什么时候","expect":{"type":"route","bao":"占卜宝","thread":null}}]}
+{"id":"single-470","kind":"single","turns":[{"text":"帮我算算我们俩合不合","expect":{"type":"route","bao":"占卜宝","thread":null}}]}
+{"id":"single-471","kind":"single","turns":[{"text":"帮我建一个管理读书的宝","expect":{"type":"route","bao":"园丁","thread":null}}]}
+{"id":"single-472","kind":"single","turns":[{"text":"最近哪个宝一直卡着没进展","expect":{"type":"route","bao":"园丁","thread":null}}]}
+{"id":"single-473","kind":"single","turns":[{"text":"这几个宝功能重复了，要不要合并","expect":{"type":"route","bao":"园丁","thread":null}}]}
+{"id":"single-474","kind":"single","turns":[{"text":"定时任务是不是有几个在空跑","expect":{"type":"route","bao":"园丁","thread":null}}]}
+{"id":"single-475","kind":"single","turns":[{"text":"把英语宝和日语宝合成一个语言宝","expect":{"type":"route","bao":"园丁","thread":null}}]}
+{"id":"single-476","kind":"single","turns":[{"text":"怎么把 Claude Code 接进 Kiki","expect":{"type":"route","bao":"管家","thread":null}}]}
+{"id":"single-477","kind":"single","turns":[{"text":"DeepSeek 的密钥填在哪","expect":{"type":"route","bao":"管家","thread":null}}]}
+{"id":"single-478","kind":"single","turns":[{"text":"Kiki 怎么更新到最新版","expect":{"type":"route","bao":"管家","thread":null}}]}
+{"id":"single-479","kind":"single","turns":[{"text":"Codex 的对话怎么在 Kiki 里看到","expect":{"type":"route","bao":"管家","thread":null}}]}
+{"id":"single-480","kind":"single","turns":[{"text":"换一个默认模型","expect":{"type":"route","bao":"管家","thread":null}}]}
+{"id":"single-481","kind":"single","turns":[{"text":"帮我把工作群今天的消息总结一下","expect":{"type":"route","bao":"微信宝","thread":null}}]}
+{"id":"single-482","kind":"single","turns":[{"text":"微信机器人能不能自动回复客户","expect":{"type":"route","bao":"微信宝","thread":null}}]}
+{"id":"single-483","kind":"single","turns":[{"text":"家族群里今天有什么重要的事","expect":{"type":"route","bao":"微信宝","thread":null}}]}
+{"id":"single-484","kind":"single","turns":[{"text":"设置一个微信关键词提醒","expect":{"type":"route","bao":"微信宝","thread":null}}]}
+{"id":"single-485","kind":"single","turns":[{"text":"群里有人@我了吗","expect":{"type":"route","bao":"微信宝","thread":null}}]}
+{"id":"single-486","kind":"single","turns":[{"text":"想给山区孩子捐书，有什么渠道","expect":{"type":"route","bao":"公益宝","thread":null}}]}
+{"id":"single-487","kind":"single","turns":[{"text":"周末有什么志愿者活动","expect":{"type":"route","bao":"公益宝","thread":null}}]}
+{"id":"single-488","kind":"single","turns":[{"text":"捐款能抵税吗","expect":{"type":"route","bao":"公益宝","thread":null}}]}
+{"id":"single-489","kind":"single","turns":[{"text":"帮我找一个靠谱的动物救助组织","expect":{"type":"route","bao":"公益宝","thread":null}}]}
+{"id":"single-490","kind":"single","turns":[{"text":"99 公益日有什么活动","expect":{"type":"route","bao":"公益宝","thread":null}}]}
+{"id":"single-491","kind":"single","turns":[{"text":"公司拖欠工资怎么申请劳动仲裁","expect":{"type":"route","bao":"法律宝","thread":null}}]}
+{"id":"single-492","kind":"single","turns":[{"text":"网购买到假货怎么维权","expect":{"type":"route","bao":"法律宝","thread":null}}]}
+{"id":"single-493","kind":"single","turns":[{"text":"被人在网上骂了能告吗","expect":{"type":"route","bao":"法律宝","thread":null}}]}
+{"id":"single-494","kind":"single","turns":[{"text":"离职时公司不给开离职证明","expect":{"type":"route","bao":"法律宝","thread":null}}]}
+{"id":"single-495","kind":"single","turns":[{"text":"借钱给朋友没打欠条怎么办","expect":{"type":"route","bao":"法律宝","thread":null}}]}
+{"id":"single-496","kind":"single","turns":[{"text":"讲个笑话","expect":{"type":"route","bao":"闲聊宝","thread":null}}]}
+{"id":"single-497","kind":"single","turns":[{"text":"陪我聊会儿天吧，好无聊","expect":{"type":"route","bao":"闲聊宝","thread":null}}]}
+{"id":"single-498","kind":"single","turns":[{"text":"你觉得人生的意义是什么","expect":{"type":"route","bao":"闲聊宝","thread":null}}]}
+{"id":"single-499","kind":"single","turns":[{"text":"今天心情不错，跟你分享一下","expect":{"type":"route","bao":"闲聊宝","thread":null}}]}
+{"id":"single-500","kind":"single","turns":[{"text":"如果你是人类你想做什么","expect":{"type":"route","bao":"闲聊宝","thread":null}}]}
+{"id":"thread-001","kind":"thread","turns":[{"text":"法人身份证复印件我扫好了，下一步交给谁","expect":{"type":"route","bao":"公司宝","thread":"营业执照"}}]}
+{"id":"thread-002","kind":"thread","turns":[{"text":"执照办下来大概还要几天","expect":{"type":"route","bao":"公司宝","thread":"营业执照"}}]}
+{"id":"thread-003","kind":"thread","turns":[{"text":"近似查询有结果了吗，42 类有没有撞名","expect":{"type":"route","bao":"商标宝","thread":"Kiki商标"}}]}
+{"id":"thread-004","kind":"thread","turns":[{"text":"Kiki 这个商标要不要把中文奇奇也一起报","expect":{"type":"route","bao":"商标宝","thread":"Kiki商标"}}]}
+{"id":"thread-005","kind":"thread","turns":[{"text":"设计外包那份，付款节点改成三三四可以吗","expect":{"type":"route","bao":"合同宝","thread":"外包合同"}}]}
+{"id":"thread-006","kind":"thread","turns":[{"text":"外包合同里源文件归属写清楚了没","expect":{"type":"route","bao":"合同宝","thread":"外包合同"}}]}
+{"id":"thread-007","kind":"thread","turns":[{"text":"周四面的那两个前端，第一个的笔试题出好了吗","expect":{"type":"route","bao":"招聘宝","thread":"招前端"}}]}
+{"id":"thread-008","kind":"thread","turns":[{"text":"前端岗位再放宽一点，两年经验也行","expect":{"type":"route","bao":"招聘宝","thread":"招前端"}}]}
+{"id":"thread-009","kind":"thread","turns":[{"text":"星河科技的报价单写完了吗","expect":{"type":"route","bao":"客户宝","thread":"星河科技"}}]}
+{"id":"thread-010","kind":"thread","turns":[{"text":"给星河的报价能不能打个九折","expect":{"type":"route","bao":"客户宝","thread":"星河科技"}}]}
+{"id":"thread-011","kind":"thread","turns":[{"text":"这周一周会的行动项发到群里了没","expect":{"type":"route","bao":"会议宝","thread":"周会纪要"}}]}
+{"id":"thread-012","kind":"thread","turns":[{"text":"周会纪要里加一条：下周上线插件","expect":{"type":"route","bao":"会议宝","thread":"周会纪要"}}]}
+{"id":"thread-013","kind":"thread","turns":[{"text":"上海那趟的酒店发票找到了","expect":{"type":"route","bao":"报销宝","thread":"上海出差"}}]}
+{"id":"thread-014","kind":"thread","turns":[{"text":"出差还差的两张发票是哪两张","expect":{"type":"route","bao":"报销宝","thread":"上海出差"}}]}
+{"id":"thread-015","kind":"thread","turns":[{"text":"BP 里市场规模那页数据换成 2026 年的","expect":{"type":"route","bao":"融资宝","thread":"天使轮BP"}}]}
+{"id":"thread-016","kind":"thread","turns":[{"text":"第三版 BP 发我看看","expect":{"type":"route","bao":"融资宝","thread":"天使轮BP"}}]}
+{"id":"thread-017","kind":"thread","turns":[{"text":"房贷利息扣除填多少，每月一千吗","expect":{"type":"route","bao":"税务宝","thread":"个税汇算"}}]}
+{"id":"thread-018","kind":"thread","turns":[{"text":"个税汇算是退税还是补税","expect":{"type":"route","bao":"税务宝","thread":"个税汇算"}}]}
+{"id":"thread-019","kind":"thread","turns":[{"text":"Grok Bot 的项目功能和我们比差在哪","expect":{"type":"route","bao":"产品宝","thread":"竞品分析"}}]}
+{"id":"thread-020","kind":"thread","turns":[{"text":"竞品对比再加上 ChatGPT 的项目","expect":{"type":"route","bao":"产品宝","thread":"竞品分析"}}]}
+{"id":"thread-021","kind":"thread","turns":[{"text":"Atlas 和 Firstbase 最后选哪个","expect":{"type":"route","bao":"海外宝","thread":"Stripe开户"}}]}
+{"id":"thread-022","kind":"thread","turns":[{"text":"Stripe 开户要多久能用","expect":{"type":"route","bao":"海外宝","thread":"Stripe开户"}}]}
+{"id":"thread-023","kind":"thread","turns":[{"text":"Safari 点登录没反应那个，查到原因没","expect":{"type":"route","bao":"开发宝","thread":"Safari登录"}}]}
+{"id":"thread-024","kind":"thread","turns":[{"text":"是不是 Safari 的第三方 cookie 拦截导致登录失败","expect":{"type":"route","bao":"开发宝","thread":"Safari登录"}}]}
+{"id":"thread-025","kind":"thread","turns":[{"text":"4K 总览我在显示器上看了，右栏太挤","expect":{"type":"route","bao":"开发宝","thread":"大屏总览"}}]}
+{"id":"thread-026","kind":"thread","turns":[{"text":"三栏仪表盘的中间那栏宽度改一下","expect":{"type":"route","bao":"开发宝","thread":"大屏总览"}}]}
+{"id":"thread-027","kind":"thread","turns":[{"text":"星轨动画在 iPhone 上掉帧，降一下粒子数","expect":{"type":"route","bao":"前端宝","thread":"官网动效"}}]}
+{"id":"thread-028","kind":"thread","turns":[{"text":"官网动效手机上直接关掉吧","expect":{"type":"route","bao":"前端宝","thread":"官网动效"}}]}
+{"id":"thread-029","kind":"thread","turns":[{"text":"D1 的表加个过期时间字段","expect":{"type":"route","bao":"后端宝","thread":"邀请码服务"}}]}
+{"id":"thread-030","kind":"thread","turns":[{"text":"邀请码服务迁完了吗","expect":{"type":"route","bao":"后端宝","thread":"邀请码服务"}}]}
+{"id":"thread-031","kind":"thread","turns":[{"text":"今天隧道又 530 了一次","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"}}]}
+{"id":"thread-032","kind":"thread","turns":[{"text":"看门狗的日志里重启了几次","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"}}]}
+{"id":"thread-033","kind":"thread","turns":[{"text":"手机端聊天页的输入框做完没","expect":{"type":"route","bao":"iOS宝","thread":"手机端原型"}}]}
+{"id":"thread-034","kind":"thread","turns":[{"text":"SwiftUI 原型能不能先给我装一个看看","expect":{"type":"route","bao":"iOS宝","thread":"手机端原型"}}]}
+{"id":"thread-035","kind":"thread","turns":[{"text":"币安上新公告又被限流了","expect":{"type":"route","bao":"爬虫宝","thread":"币安公告"}}]}
+{"id":"thread-036","kind":"thread","turns":[{"text":"公告抓取改成 15 分钟一次","expect":{"type":"route","bao":"爬虫宝","thread":"币安公告"}}]}
+{"id":"thread-037","kind":"thread","turns":[{"text":"七日留存算出来多少","expect":{"type":"route","bao":"数据宝","thread":"用户留存"}}]}
+{"id":"thread-038","kind":"thread","turns":[{"text":"留存再按渠道拆一下","expect":{"type":"route","bao":"数据宝","thread":"用户留存"}}]}
+{"id":"thread-039","kind":"thread","turns":[{"text":"mem0 和 Zep 你看完了吗，哪个更适合","expect":{"type":"route","bao":"AI宝","thread":"记忆路由"}}]}
+{"id":"thread-040","kind":"thread","turns":[{"text":"Letta 的记忆块是怎么工作的","expect":{"type":"route","bao":"AI宝","thread":"记忆路由"}}]}
+{"id":"thread-041","kind":"thread","turns":[{"text":"财务插件的仓库建好了吗","expect":{"type":"route","bao":"插件宝","thread":"财务插件"}}]}
+{"id":"thread-042","kind":"thread","turns":[{"text":"财务插件上架宝库的说明写一下","expect":{"type":"route","bao":"插件宝","thread":"财务插件"}}]}
+{"id":"thread-043","kind":"thread","turns":[{"text":"logo 我选 A3 黑底白，出正式稿","expect":{"type":"route","bao":"设计宝","thread":"新logo"}}]}
+{"id":"thread-044","kind":"thread","turns":[{"text":"一分为二那个，再圆滑一点","expect":{"type":"route","bao":"设计宝","thread":"新logo"}}]}
+{"id":"thread-045","kind":"thread","turns":[{"text":"网格区间改成 8 万到 10 万","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"}}]}
+{"id":"thread-046","kind":"thread","turns":[{"text":"格数加到 40 格会不会手续费太高","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"}}]}
+{"id":"thread-047","kind":"thread","turns":[{"text":"英伟达财报出来了，超预期吗","expect":{"type":"route","bao":"美股宝","thread":"英伟达财报"}}]}
+{"id":"thread-048","kind":"thread","turns":[{"text":"英伟达要不要先减一半","expect":{"type":"route","bao":"美股宝","thread":"英伟达财报"}}]}
+{"id":"thread-049","kind":"thread","turns":[{"text":"这个月的红利 ETF 定投扣了没","expect":{"type":"route","bao":"A股宝","thread":"红利ETF"}}]}
+{"id":"thread-050","kind":"thread","turns":[{"text":"红利 ETF 定投改成每月 3000","expect":{"type":"route","bao":"A股宝","thread":"红利ETF"}}]}
+{"id":"thread-051","kind":"thread","turns":[{"text":"第三个钱包的 L2 交互做到哪了","expect":{"type":"route","bao":"链上宝","thread":"空投交互"}}]}
+{"id":"thread-052","kind":"thread","turns":[{"text":"空投表格里加一列 gas 花费","expect":{"type":"route","bao":"链上宝","thread":"空投交互"}}]}
+{"id":"thread-053","kind":"thread","turns":[{"text":"双均线回测换成 4 小时级别试试","expect":{"type":"route","bao":"量化宝","thread":"均线回测"}}]}
+{"id":"thread-054","kind":"thread","turns":[{"text":"夏普 0.8 太低了，加个止损再回测","expect":{"type":"route","bao":"量化宝","thread":"均线回测"}}]}
+{"id":"thread-055","kind":"thread","turns":[{"text":"那两款年金险最后选哪个","expect":{"type":"route","bao":"理财宝","thread":"年金险"}}]}
+{"id":"thread-056","kind":"thread","turns":[{"text":"年金险的 IRR 你怎么算的","expect":{"type":"route","bao":"理财宝","thread":"年金险"}}]}
+{"id":"thread-057","kind":"thread","turns":[{"text":"提前还 30 万是缩短年限还是减月供","expect":{"type":"route","bao":"房产宝","thread":"提前还贷"}}]}
+{"id":"thread-058","kind":"thread","turns":[{"text":"还贷那个算一下能省多少利息","expect":{"type":"route","bao":"房产宝","thread":"提前还贷"}}]}
+{"id":"thread-059","kind":"thread","turns":[{"text":"十一月预算还剩多少","expect":{"type":"route","bao":"记账宝","thread":"十一月账"}}]}
+{"id":"thread-060","kind":"thread","turns":[{"text":"这个月超支了吗","expect":{"type":"route","bao":"记账宝","thread":"十一月账"}}]}
+{"id":"thread-061","kind":"thread","turns":[{"text":"招行卡这期账单多少钱","expect":{"type":"route","bao":"信用卡宝","thread":"招行卡"}}]}
+{"id":"thread-062","kind":"thread","turns":[{"text":"招行卡 23 号前提醒我还","expect":{"type":"route","bao":"信用卡宝","thread":"招行卡"}}]}
+{"id":"thread-063","kind":"thread","turns":[{"text":"那 iPad Air 买 256G 还是 128G","expect":{"type":"route","bao":"购物宝","thread":"买iPad"}}]}
+{"id":"thread-064","kind":"thread","turns":[{"text":"iPad 双十一哪里买最便宜","expect":{"type":"route","bao":"购物宝","thread":"买iPad"}}]}
+{"id":"thread-065","kind":"thread","turns":[{"text":"大阪的酒店帮我挑三家","expect":{"type":"route","bao":"旅行宝","thread":"日本行"}}]}
+{"id":"thread-066","kind":"thread","turns":[{"text":"东京那几天下雨的话去哪","expect":{"type":"route","bao":"旅行宝","thread":"日本行"}}]}
+{"id":"thread-067","kind":"thread","turns":[{"text":"红烧肉这次糖放多少","expect":{"type":"route","bao":"美食宝","thread":"红烧肉"}}]}
+{"id":"thread-068","kind":"thread","turns":[{"text":"上次红烧肉太甜，冰糖减半行吗","expect":{"type":"route","bao":"美食宝","thread":"红烧肉"}}]}
+{"id":"thread-069","kind":"thread","turns":[{"text":"二保要换哪些东西","expect":{"type":"route","bao":"出行宝","thread":"车保养"}}]}
+{"id":"thread-070","kind":"thread","turns":[{"text":"4S 店二保报价 1800 贵不贵","expect":{"type":"route","bao":"出行宝","thread":"车保养"}}]}
+{"id":"thread-071","kind":"thread","turns":[{"text":"书桌选 1.4 米还是 1.6 米","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"}}]}
+{"id":"thread-072","kind":"thread","turns":[{"text":"奶油色墙配什么颜色的书桌","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"}}]}
+{"id":"thread-073","kind":"thread","turns":[{"text":"橘猫打完三联要注意什么","expect":{"type":"route","bao":"宠物宝","thread":"猫疫苗"}}]}
+{"id":"thread-074","kind":"thread","turns":[{"text":"猫疫苗约的是哪天","expect":{"type":"route","bao":"宠物宝","thread":"猫疫苗"}}]}
+{"id":"thread-075","kind":"thread","turns":[{"text":"周三的牙医改到下周","expect":{"type":"route","bao":"日程宝","thread":"本周安排"}}]}
+{"id":"thread-076","kind":"thread","turns":[{"text":"周五聚餐几点来着","expect":{"type":"route","bao":"日程宝","thread":"本周安排"}}]}
+{"id":"thread-077","kind":"thread","turns":[{"text":"护照续签要预约吗","expect":{"type":"route","bao":"证件宝","thread":"护照续签"}}]}
+{"id":"thread-078","kind":"thread","turns":[{"text":"续签护照要带什么材料","expect":{"type":"route","bao":"证件宝","thread":"护照续签"}}]}
+{"id":"thread-079","kind":"thread","turns":[{"text":"纪念日礼物定了吗，有什么想法","expect":{"type":"route","bao":"礼物宝","thread":"结婚纪念日"}}]}
+{"id":"thread-080","kind":"thread","turns":[{"text":"结婚纪念日订个餐厅","expect":{"type":"route","bao":"礼物宝","thread":"结婚纪念日"}}]}
+{"id":"thread-081","kind":"thread","turns":[{"text":"清完缓存还剩多少空间","expect":{"type":"route","bao":"手机宝","thread":"Mac清理"}}]}
+{"id":"thread-082","kind":"thread","turns":[{"text":"Docker 的镜像能删吗，占了 30G","expect":{"type":"route","bao":"手机宝","thread":"Mac清理"}}]}
+{"id":"thread-083","kind":"thread","turns":[{"text":"卧推卡在 70 怎么突破","expect":{"type":"route","bao":"健身宝","thread":"增肌计划"}}]}
+{"id":"thread-084","kind":"thread","turns":[{"text":"增肌计划里周三改成练背","expect":{"type":"route","bao":"健身宝","thread":"增肌计划"}}]}
+{"id":"thread-085","kind":"thread","turns":[{"text":"1800 大卡的话早餐怎么吃","expect":{"type":"route","bao":"饮食宝","thread":"减脂餐"}}]}
+{"id":"thread-086","kind":"thread","turns":[{"text":"蛋白质 140g 每天太难吃够了","expect":{"type":"route","bao":"饮食宝","thread":"减脂餐"}}]}
+{"id":"thread-087","kind":"thread","turns":[{"text":"尿酸复查挂哪个科","expect":{"type":"route","bao":"看病宝","thread":"体检报告"}}]}
+{"id":"thread-088","kind":"thread","turns":[{"text":"尿酸 480 要吃药吗","expect":{"type":"route","bao":"看病宝","thread":"体检报告"}}]}
+{"id":"thread-089","kind":"thread","turns":[{"text":"第 12 副牙套有点松","expect":{"type":"route","bao":"牙齿宝","thread":"隐适美"}}]}
+{"id":"thread-090","kind":"thread","turns":[{"text":"隐适美复诊是 12 月几号","expect":{"type":"route","bao":"牙齿宝","thread":"隐适美"}}]}
+{"id":"thread-091","kind":"thread","turns":[{"text":"这周跑量只有 20 公里，够吗","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"}}]}
+{"id":"thread-092","kind":"thread","turns":[{"text":"半马 1 小时 50 分要什么配速","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"}}]}
+{"id":"thread-093","kind":"thread","turns":[{"text":"今天的 30 个托福词发我","expect":{"type":"route","bao":"英语宝","thread":"每日单词"}}]}
+{"id":"thread-094","kind":"thread","turns":[{"text":"第 12 天的单词考考我","expect":{"type":"route","bao":"英语宝","thread":"每日单词"}}]}
+{"id":"thread-095","kind":"thread","turns":[{"text":"第五章的语法我看完了，出几道题","expect":{"type":"route","bao":"日语宝","thread":"N2备考"}}]}
+{"id":"thread-096","kind":"thread","turns":[{"text":"N2 报名什么时候开始","expect":{"type":"route","bao":"日语宝","thread":"N2备考"}}]}
+{"id":"thread-097","kind":"thread","turns":[{"text":"第三章的笔记整理一下","expect":{"type":"route","bao":"读书宝","thread":"穷查理"}}]}
+{"id":"thread-098","kind":"thread","turns":[{"text":"芒格说的多元思维模型具体有哪些","expect":{"type":"route","bao":"读书宝","thread":"穷查理"}}]}
+{"id":"thread-099","kind":"thread","turns":[{"text":"PMP 考试前一个月怎么冲刺","expect":{"type":"route","bao":"课程宝","thread":"PMP"}}]}
+{"id":"thread-100","kind":"thread","turns":[{"text":"PMP 的模拟题哪里找","expect":{"type":"route","bao":"课程宝","thread":"PMP"}}]}
+{"id":"thread-101","kind":"thread","turns":[{"text":"借用检查器又报错了，生命周期不对","expect":{"type":"route","bao":"编程课宝","thread":"学Rust"}}]}
+{"id":"thread-102","kind":"thread","turns":[{"text":"所有权那章看完了，下一章是什么","expect":{"type":"route","bao":"编程课宝","thread":"学Rust"}}]}
+{"id":"thread-103","kind":"thread","turns":[{"text":"Mamba 那部分补一下状态空间模型","expect":{"type":"route","bao":"论文宝","thread":"Transformer综述"}}]}
+{"id":"thread-104","kind":"thread","turns":[{"text":"综述里加上 RWKV","expect":{"type":"route","bao":"论文宝","thread":"Transformer综述"}}]}
+{"id":"thread-105","kind":"thread","turns":[{"text":"今天应用题又错了三道","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"}}]}
+{"id":"thread-106","kind":"thread","turns":[{"text":"乘法口诀背到七了","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"}}]}
+{"id":"thread-107","kind":"thread","turns":[{"text":"爸的胃镜是几号","expect":{"type":"route","bao":"父母宝","thread":"爸体检"}}]}
+{"id":"thread-108","kind":"thread","turns":[{"text":"胃镜前一天要禁食吗","expect":{"type":"route","bao":"父母宝","thread":"爸体检"}}]}
+{"id":"thread-109","kind":"thread","turns":[{"text":"回老家的高铁票几号开抢","expect":{"type":"route","bao":"亲戚宝","thread":"过年回老家"}}]}
+{"id":"thread-110","kind":"thread","turns":[{"text":"抢不到票的话开车回去要多久","expect":{"type":"route","bao":"亲戚宝","thread":"过年回老家"}}]}
+{"id":"thread-111","kind":"thread","turns":[{"text":"物业费涨到 3.5 一年多交多少","expect":{"type":"route","bao":"家庭账宝","thread":"物业费"}}]}
+{"id":"thread-112","kind":"thread","turns":[{"text":"物业费涨价业主能反对吗","expect":{"type":"route","bao":"家庭账宝","thread":"物业费"}}]}
+{"id":"thread-113","kind":"thread","turns":[{"text":"那两款重疾险对比一下保障","expect":{"type":"route","bao":"保险宝","thread":"重疾险"}}]}
+{"id":"thread-114","kind":"thread","turns":[{"text":"重疾险保额买 50 万够吗","expect":{"type":"route","bao":"保险宝","thread":"重疾险"}}]}
+{"id":"thread-115","kind":"thread","turns":[{"text":"宣传片的配乐找到了吗","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"}}]}
+{"id":"thread-116","kind":"thread","turns":[{"text":"宣传片结尾加一句 slogan","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"}}]}
+{"id":"thread-117","kind":"thread","turns":[{"text":"昨天那条推只有 200 浏览","expect":{"type":"route","bao":"宣传宝","thread":"推特复盘"}}]}
+{"id":"thread-118","kind":"thread","turns":[{"text":"打法手册这周改了什么","expect":{"type":"route","bao":"宣传宝","thread":"推特复盘"}}]}
+{"id":"thread-119","kind":"thread","turns":[{"text":"小红书那篇最后用干货标题吧","expect":{"type":"route","bao":"公众号宝","thread":"小红书笔记"}}]}
+{"id":"thread-120","kind":"thread","turns":[{"text":"Kiki 那篇笔记配图做好了没","expect":{"type":"route","bao":"公众号宝","thread":"小红书笔记"}}]}
+{"id":"thread-121","kind":"thread","turns":[{"text":"中文站开场那句再短一点","expect":{"type":"route","bao":"官网宝","thread":"中文站重写"}}]}
+{"id":"thread-122","kind":"thread","turns":[{"text":"官网重写的功能区块怎么排","expect":{"type":"route","bao":"官网宝","thread":"中文站重写"}}]}
+{"id":"thread-123","kind":"thread","turns":[{"text":"AI 管家那篇第二节写完了吗","expect":{"type":"route","bao":"写作宝","thread":"科幻短篇"}}]}
+{"id":"thread-124","kind":"thread","turns":[{"text":"科幻短篇的结尾要反转","expect":{"type":"route","bao":"写作宝","thread":"科幻短篇"}}]}
+{"id":"thread-125","kind":"thread","turns":[{"text":"README 英文版语气再正式一些","expect":{"type":"route","bao":"翻译宝","thread":"英文README"}}]}
+{"id":"thread-126","kind":"thread","turns":[{"text":"英文 README 的安装部分翻好了吗","expect":{"type":"route","bao":"翻译宝","thread":"英文README"}}]}
+{"id":"thread-127","kind":"thread","turns":[{"text":"路演 PPT 第三页太长了","expect":{"type":"route","bao":"演讲宝","thread":"路演PPT"}}]}
+{"id":"thread-128","kind":"thread","turns":[{"text":"Demo Day 那 5 分钟帮我掐一下时间","expect":{"type":"route","bao":"演讲宝","thread":"路演PPT"}}]}
+{"id":"thread-129","kind":"thread","turns":[{"text":"F 和弦还是按不响","expect":{"type":"route","bao":"音乐宝","thread":"学吉他"}}]}
+{"id":"thread-130","kind":"thread","turns":[{"text":"大横按有什么练习方法","expect":{"type":"route","bao":"音乐宝","thread":"学吉他"}}]}
+{"id":"thread-131","kind":"thread","turns":[{"text":"水神殿的第三个机关怎么过","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"}}]}
+{"id":"thread-132","kind":"thread","turns":[{"text":"塞尔达水神殿打完了，下一个去哪","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"}}]}
+{"id":"thread-133","kind":"thread","turns":[{"text":"龟背竹黄叶要剪掉吗","expect":{"type":"route","bao":"植物宝","thread":"龟背竹"}}]}
+{"id":"thread-134","kind":"thread","turns":[{"text":"龟背竹换盆用什么土","expect":{"type":"route","bao":"植物宝","thread":"龟背竹"}}]}
+{"id":"thread-135","kind":"thread","turns":[{"text":"Model Y 和 YU7 续航谁更实在","expect":{"type":"route","bao":"汽车宝","thread":"换车"}}]}
+{"id":"thread-136","kind":"thread","turns":[{"text":"YU7 现在提车要等多久","expect":{"type":"route","bao":"汽车宝","thread":"换车"}}]}
+{"id":"thread-137","kind":"thread","turns":[{"text":"今天三个群的摘要出来了吗","expect":{"type":"route","bao":"微信宝","thread":"群消息摘要"}}]}
+{"id":"thread-138","kind":"thread","turns":[{"text":"群摘要再加一个投资群","expect":{"type":"route","bao":"微信宝","thread":"群消息摘要"}}]}
+{"id":"thread-139","kind":"thread","turns":[{"text":"小额诉讼要准备什么证据","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"}}]}
+{"id":"thread-140","kind":"thread","turns":[{"text":"押金的事房东回消息了，说只退 3000","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"}}]}
+{"id":"split-001","kind":"split","turns":[{"text":"记一笔打车 45，另外 BTC 帮我看下现在价格","expect":{"type":"split","targets":[{"bao":"记账宝","thread":null},{"bao":"加密宝","thread":null}]}}]}
+{"id":"split-002","kind":"split","turns":[{"text":"宣传片改完了发条推，顺便提醒我交执照材料","expect":{"type":"split","targets":[{"bao":"视频宝","thread":"产品宣传片"},{"bao":"宣传宝","thread":null},{"bao":"公司宝","thread":"营业执照"}]}}]}
+{"id":"split-003","kind":"split","turns":[{"text":"修一下 Safari 登录，再帮我查 apple 怎么读","expect":{"type":"split","targets":[{"bao":"开发宝","thread":"Safari登录"},{"bao":"英语宝","thread":null}]}}]}
+{"id":"split-004","kind":"split","turns":[{"text":"今晚做个红烧鱼，再帮我排一下明天的训练","expect":{"type":"split","targets":[{"bao":"美食宝","thread":null},{"bao":"健身宝","thread":null}]}}]}
+{"id":"split-005","kind":"split","turns":[{"text":"帮我选个空气净化器，另外周六提醒我去拿快递","expect":{"type":"split","targets":[{"bao":"购物宝","thread":null},{"bao":"日程宝","thread":null}]}}]}
+{"id":"split-006","kind":"split","turns":[{"text":"日本酒店帮我订了，护照续签也得抓紧","expect":{"type":"split","targets":[{"bao":"旅行宝","thread":"日本行"},{"bao":"证件宝","thread":"护照续签"}]}}]}
+{"id":"split-007","kind":"split","turns":[{"text":"发一个前端的 offer，再准备一份劳动合同","expect":{"type":"split","targets":[{"bao":"招聘宝","thread":null},{"bao":"合同宝","thread":null}]}}]}
+{"id":"split-008","kind":"split","turns":[{"text":"午饭 28 记一下，顺便看看招行卡这期多少","expect":{"type":"split","targets":[{"bao":"记账宝","thread":null},{"bao":"信用卡宝","thread":null}]}}]}
+{"id":"split-009","kind":"split","turns":[{"text":"孩子数学作业不会，小的那个又发烧了","expect":{"type":"split","targets":[{"bao":"孩子宝","thread":null},{"bao":"育儿宝","thread":null}]}}]}
+{"id":"split-010","kind":"split","turns":[{"text":"英伟达和 BTC 今天都怎么样","expect":{"type":"split","targets":[{"bao":"美股宝","thread":null},{"bao":"加密宝","thread":null}]}}]}
+{"id":"split-011","kind":"split","turns":[{"text":"README 翻成英文，然后把官网首页文案也改一下","expect":{"type":"split","targets":[{"bao":"翻译宝","thread":null},{"bao":"官网宝","thread":null}]}}]}
+{"id":"split-012","kind":"split","turns":[{"text":"帮我挂个眼科，再把周三的会推掉","expect":{"type":"split","targets":[{"bao":"看病宝","thread":null},{"bao":"日程宝","thread":null}]}}]}
+{"id":"split-013","kind":"split","turns":[{"text":"晚上睡不好，另外晚饭吃什么比较健康","expect":{"type":"split","targets":[{"bao":"睡眠宝","thread":null},{"bao":"饮食宝","thread":null}]}}]}
+{"id":"split-014","kind":"split","turns":[{"text":"猫砂用完了帮我买，顺便问下猫掉毛严重怎么办","expect":{"type":"split","targets":[{"bao":"宠物宝","thread":null},{"bao":"购物宝","thread":null}]}}]}
+{"id":"split-015","kind":"split","turns":[{"text":"推荐本书，再推荐部电影周末看","expect":{"type":"split","targets":[{"bao":"读书宝","thread":null},{"bao":"影视宝","thread":null}]}}]}
+{"id":"split-016","kind":"split","turns":[{"text":"Mac mini 磁盘满了，接口也报 500 了","expect":{"type":"split","targets":[{"bao":"运维宝","thread":null},{"bao":"后端宝","thread":null}]}}]}
+{"id":"split-017","kind":"split","turns":[{"text":"这个月的税报一下，出差发票也整理下","expect":{"type":"split","targets":[{"bao":"税务宝","thread":null},{"bao":"报销宝","thread":null}]}}]}
+{"id":"split-018","kind":"split","turns":[{"text":"我妈下周生日，她最近腰疼，送什么好也帮我想想","expect":{"type":"split","targets":[{"bao":"父母宝","thread":null},{"bao":"礼物宝","thread":null}]}}]}
+{"id":"split-019","kind":"split","turns":[{"text":"新车提了，车险帮我比比价","expect":{"type":"split","targets":[{"bao":"汽车宝","thread":null},{"bao":"保险宝","thread":null}]}}]}
+{"id":"split-020","kind":"split","turns":[{"text":"今晚湖人几点打，打完我想玩会塞尔达","expect":{"type":"split","targets":[{"bao":"游戏宝","thread":null},{"bao":"球赛宝","thread":null}]}}]}
+{"id":"split-021","kind":"split","turns":[{"text":"设计一个新的按钮样式，再帮我把它写成组件","expect":{"type":"split","targets":[{"bao":"设计宝","thread":null},{"bao":"前端宝","thread":null}]}}]}
+{"id":"split-022","kind":"split","turns":[{"text":"英语单词和日语语法今天的都发我","expect":{"type":"split","targets":[{"bao":"英语宝","thread":null},{"bao":"日语宝","thread":null}]}}]}
+{"id":"split-023","kind":"split","turns":[{"text":"写篇公众号，再剪个配套的短视频","expect":{"type":"split","targets":[{"bao":"公众号宝","thread":null},{"bao":"视频宝","thread":null}]}}]}
+{"id":"split-024","kind":"split","turns":[{"text":"房东不退押金，我还想顺便看看附近的房子","expect":{"type":"split","targets":[{"bao":"法律宝","thread":null},{"bao":"房产宝","thread":null}]}}]}
+{"id":"split-025","kind":"split","turns":[{"text":"明天跑半马，帮我看看配速，再说下穿什么","expect":{"type":"split","targets":[{"bao":"跑步宝","thread":null},{"bao":"穿搭宝","thread":null}]}}]}
+{"id":"split-026","kind":"split","turns":[{"text":"帮我规划一下闲钱，再算下这个月家里水电","expect":{"type":"split","targets":[{"bao":"理财宝","thread":null},{"bao":"家庭账宝","thread":null}]}}]}
+{"id":"split-027","kind":"split","turns":[{"text":"研究一下 Agent 记忆，再找几篇相关论文","expect":{"type":"split","targets":[{"bao":"AI宝","thread":null},{"bao":"论文宝","thread":null}]}}]}
+{"id":"split-028","kind":"split","turns":[{"text":"抓一下竞品价格，抓完画个价格趋势图","expect":{"type":"split","targets":[{"bao":"爬虫宝","thread":null},{"bao":"数据宝","thread":null}]}}]}
+{"id":"split-029","kind":"split","turns":[{"text":"跟进一下星河科技，另外收件箱帮我清一清","expect":{"type":"split","targets":[{"bao":"客户宝","thread":null},{"bao":"邮件宝","thread":null}]}}]}
+{"id":"split-030","kind":"split","turns":[{"text":"朋友下个月结婚，随多少钱合适，再挑个礼物","expect":{"type":"split","targets":[{"bao":"婚礼宝","thread":null},{"bao":"礼物宝","thread":null}]}}]}
+{"id":"split-031","kind":"split","turns":[{"text":"龟背竹要换盆，阳台也该打扫了","expect":{"type":"split","targets":[{"bao":"植物宝","thread":null},{"bao":"家务宝","thread":null}]}}]}
+{"id":"split-032","kind":"split","turns":[{"text":"老是上火想喝点凉茶，另外体检报告帮我看下","expect":{"type":"split","targets":[{"bao":"中医宝","thread":null},{"bao":"看病宝","thread":null}]}}]}
+{"id":"split-033","kind":"split","turns":[{"text":"iPhone 越来越卡，旧的那台想卖掉","expect":{"type":"split","targets":[{"bao":"手机宝","thread":null},{"bao":"快递宝","thread":null}]}}]}
+{"id":"split-034","kind":"split","turns":[{"text":"今天科技新闻和美股行情一起给我","expect":{"type":"split","targets":[{"bao":"新闻宝","thread":null},{"bao":"行情宝","thread":null}]}}]}
+{"id":"split-035","kind":"split","turns":[{"text":"下午开需求评审会，先帮我把需求文档写好","expect":{"type":"split","targets":[{"bao":"会议宝","thread":null},{"bao":"产品宝","thread":null}]}}]}
+{"id":"split-036","kind":"split","turns":[{"text":"过年先回老家，然后想去趟三亚","expect":{"type":"split","targets":[{"bao":"亲戚宝","thread":null},{"bao":"旅行宝","thread":null}]}}]}
+{"id":"split-037","kind":"split","turns":[{"text":"PMP 报名的事和考研复习计划都帮我看看","expect":{"type":"split","targets":[{"bao":"课程宝","thread":null},{"bao":"考研宝","thread":null}]}}]}
+{"id":"split-038","kind":"split","turns":[{"text":"下周去青海拍星空，参数和路线都帮我准备","expect":{"type":"split","targets":[{"bao":"摄影宝","thread":null},{"bao":"旅行宝","thread":null}]}}]}
+{"id":"split-039","kind":"split","turns":[{"text":"最近很焦虑，想靠运动缓解一下","expect":{"type":"split","targets":[{"bao":"心理宝","thread":null},{"bao":"健身宝","thread":null}]}}]}
+{"id":"split-040","kind":"split","turns":[{"text":"美国公司开好了，国内这边要不要报税","expect":{"type":"split","targets":[{"bao":"海外宝","thread":null},{"bao":"税务宝","thread":null}]}}]}
+{"id":"split-041","kind":"split","turns":[{"text":"钱包好像被盗了，有一笔不是我转的","expect":{"type":"split","targets":[{"bao":"链上宝","thread":null},{"bao":"安全宝","thread":null}]}}]}
+{"id":"split-042","kind":"split","turns":[{"text":"量化机器人停了，顺便看下 ETH 现在多少","expect":{"type":"split","targets":[{"bao":"量化宝","thread":null},{"bao":"加密宝","thread":null}]}}]}
+{"id":"split-043","kind":"split","turns":[{"text":"路演 PPT 要改内容，配图也重新做","expect":{"type":"split","targets":[{"bao":"演讲宝","thread":null},{"bao":"设计宝","thread":null}]}}]}
+{"id":"split-044","kind":"split","turns":[{"text":"教我 Rust 的生命周期，再看看 Kiki 打包为啥失败","expect":{"type":"split","targets":[{"bao":"编程课宝","thread":null},{"bao":"开发宝","thread":null}]}}]}
+{"id":"split-045","kind":"split","turns":[{"text":"把客户群今天的消息总结一下，有要回的帮我起草","expect":{"type":"split","targets":[{"bao":"微信宝","thread":null},{"bao":"客户宝","thread":null}]}}]}
+{"id":"split-046","kind":"split","turns":[{"text":"给爸妈买份意外险，顺便问下我爸体检结果","expect":{"type":"split","targets":[{"bao":"保险宝","thread":null},{"bao":"父母宝","thread":null}]}}]}
+{"id":"split-047","kind":"split","turns":[{"text":"驾照要换证了，车的违章也一起处理","expect":{"type":"split","targets":[{"bao":"证件宝","thread":null},{"bao":"出行宝","thread":null}]}}]}
+{"id":"split-048","kind":"split","turns":[{"text":"想做蛋糕，烤箱买哪款好","expect":{"type":"split","targets":[{"bao":"美食宝","thread":null},{"bao":"购物宝","thread":null}]}}]}
+{"id":"split-049","kind":"split","turns":[{"text":"写一段片头音乐用在播客开头","expect":{"type":"split","targets":[{"bao":"音乐宝","thread":null},{"bao":"播客宝","thread":null}]}}]}
+{"id":"split-050","kind":"split","turns":[{"text":"财务插件写完了，帮我测一下","expect":{"type":"split","targets":[{"bao":"插件宝","thread":null},{"bao":"测试宝","thread":null}]}}]}
+{"id":"split-051","kind":"split","turns":[{"text":"晚饭吃了麻辣烫 36，热量高不高","expect":{"type":"split","targets":[{"bao":"记账宝","thread":null},{"bao":"饮食宝","thread":null}]}}]}
+{"id":"split-052","kind":"split","turns":[{"text":"公司名改了，商标要不要重新申请","expect":{"type":"split","targets":[{"bao":"公司宝","thread":null},{"bao":"商标宝","thread":null}]}}]}
+{"id":"split-053","kind":"split","turns":[{"text":"周四上午空出来，安排一个客户会议","expect":{"type":"split","targets":[{"bao":"日程宝","thread":null},{"bao":"会议宝","thread":null}]}}]}
+{"id":"split-054","kind":"split","turns":[{"text":"想亲手做个礼物送女朋友","expect":{"type":"split","targets":[{"bao":"手工宝","thread":null},{"bao":"礼物宝","thread":null}]}}]}
+{"id":"split-055","kind":"split","turns":[{"text":"国庆想去千岛湖钓鱼，住哪方便","expect":{"type":"split","targets":[{"bao":"钓鱼宝","thread":null},{"bao":"旅行宝","thread":null}]}}]}
+{"id":"split-056","kind":"split","turns":[{"text":"那个明星的新剧好看吗，最近还有什么瓜","expect":{"type":"split","targets":[{"bao":"八卦宝","thread":null},{"bao":"影视宝","thread":null}]}}]}
+{"id":"split-057","kind":"split","turns":[{"text":"这道鸡兔同笼我自己也忘了怎么做，教完我再教孩子","expect":{"type":"split","targets":[{"bao":"数学宝","thread":null},{"bao":"孩子宝","thread":null}]}}]}
+{"id":"split-058","kind":"split","turns":[{"text":"她是双鱼座，送什么礼物合她心意","expect":{"type":"split","targets":[{"bao":"占卜宝","thread":null},{"bao":"礼物宝","thread":null}]}}]}
+{"id":"split-059","kind":"split","turns":[{"text":"隧道又掉了，明天提醒我去看一下 Mac mini","expect":{"type":"split","targets":[{"bao":"运维宝","thread":"隧道掉线"},{"bao":"日程宝","thread":null}]}}]}
+{"id":"reply-001","kind":"reply","turns":[{"text":"你好","expect":{"type":"reply"}}]}
+{"id":"reply-002","kind":"reply","turns":[{"text":"在吗","expect":{"type":"reply"}}]}
+{"id":"reply-003","kind":"reply","turns":[{"text":"谢谢你","expect":{"type":"reply"}}]}
+{"id":"reply-004","kind":"reply","turns":[{"text":"好的","expect":{"type":"reply"}}]}
+{"id":"reply-005","kind":"reply","turns":[{"text":"收到","expect":{"type":"reply"}}]}
+{"id":"reply-006","kind":"reply","turns":[{"text":"现在几点","expect":{"type":"reply"}}]}
+{"id":"reply-007","kind":"reply","turns":[{"text":"今天星期几","expect":{"type":"reply"}}]}
+{"id":"reply-008","kind":"reply","turns":[{"text":"今天几号了","expect":{"type":"reply"}}]}
+{"id":"reply-009","kind":"reply","turns":[{"text":"晚安","expect":{"type":"reply"}}]}
+{"id":"reply-010","kind":"reply","turns":[{"text":"早上好","expect":{"type":"reply"}}]}
+{"id":"reply-011","kind":"reply","turns":[{"text":"你是谁","expect":{"type":"reply"}}]}
+{"id":"reply-012","kind":"reply","turns":[{"text":"你能做什么","expect":{"type":"reply"}}]}
+{"id":"reply-013","kind":"reply","turns":[{"text":"哈哈哈","expect":{"type":"reply"}}]}
+{"id":"reply-014","kind":"reply","turns":[{"text":"嗯嗯","expect":{"type":"reply"}}]}
+{"id":"reply-015","kind":"reply","turns":[{"text":"OK","expect":{"type":"reply"}}]}
+{"id":"reply-016","kind":"reply","turns":[{"text":"辛苦了","expect":{"type":"reply"}}]}
+{"id":"reply-017","kind":"reply","turns":[{"text":"1 加 1 等于几","expect":{"type":"reply"}}]}
+{"id":"reply-018","kind":"reply","turns":[{"text":"一公里是多少米","expect":{"type":"reply"}}]}
+{"id":"reply-019","kind":"reply","turns":[{"text":"中国的首都是哪里","expect":{"type":"reply"}}]}
+{"id":"reply-020","kind":"reply","turns":[{"text":"一年有多少天","expect":{"type":"reply"}}]}
+{"id":"reply-021","kind":"reply","turns":[{"text":"明天是周几","expect":{"type":"reply"}}]}
+{"id":"reply-022","kind":"reply","turns":[{"text":"你叫什么名字","expect":{"type":"reply"}}]}
+{"id":"reply-023","kind":"reply","turns":[{"text":"测试一下","expect":{"type":"reply"}}]}
+{"id":"reply-024","kind":"reply","turns":[{"text":"hello","expect":{"type":"reply"}}]}
+{"id":"reply-025","kind":"reply","turns":[{"text":"thanks","expect":{"type":"reply"}}]}
+{"id":"reply-026","kind":"reply","turns":[{"text":"拜拜","expect":{"type":"reply"}}]}
+{"id":"reply-027","kind":"reply","turns":[{"text":"我回来了","expect":{"type":"reply"}}]}
+{"id":"reply-028","kind":"reply","turns":[{"text":"不用了","expect":{"type":"reply"}}]}
+{"id":"reply-029","kind":"reply","turns":[{"text":"没事了","expect":{"type":"reply"}}]}
+{"id":"reply-030","kind":"reply","turns":[{"text":"算了","expect":{"type":"reply"}}]}
+{"id":"reply-031","kind":"reply","turns":[{"text":"知道了","expect":{"type":"reply"}}]}
+{"id":"reply-032","kind":"reply","turns":[{"text":"太棒了","expect":{"type":"reply"}}]}
+{"id":"reply-033","kind":"reply","turns":[{"text":"👍","expect":{"type":"reply"}}]}
+{"id":"reply-034","kind":"reply","turns":[{"text":"下午好","expect":{"type":"reply"}}]}
+{"id":"reply-035","kind":"reply","turns":[{"text":"你还在吗","expect":{"type":"reply"}}]}
+{"id":"reply-036","kind":"reply","turns":[{"text":"今天是几月几号","expect":{"type":"reply"}}]}
+{"id":"reply-037","kind":"reply","turns":[{"text":"一斤等于多少克","expect":{"type":"reply"}}]}
+{"id":"reply-038","kind":"reply","turns":[{"text":"水的沸点是多少度","expect":{"type":"reply"}}]}
+{"id":"reply-039","kind":"reply","turns":[{"text":"π 大概是多少","expect":{"type":"reply"}}]}
+{"id":"reply-040","kind":"reply","turns":[{"text":"现在北京时间几点","expect":{"type":"reply"}}]}
+{"id":"reply-041","kind":"reply","turns":[{"text":"月亮离地球多远","expect":{"type":"reply"}}]}
+{"id":"reply-042","kind":"reply","turns":[{"text":"1 美元是多少美分","expect":{"type":"reply"}}]}
+{"id":"reply-043","kind":"reply","turns":[{"text":"一周有几天","expect":{"type":"reply"}}]}
+{"id":"reply-044","kind":"reply","turns":[{"text":"你好呀奇奇","expect":{"type":"reply"}}]}
+{"id":"reply-045","kind":"reply","turns":[{"text":"奇奇你真好","expect":{"type":"reply"}}]}
+{"id":"reply-046","kind":"reply","turns":[{"text":"好累先不说了","expect":{"type":"reply"}}]}
+{"id":"reply-047","kind":"reply","turns":[{"text":"稍等一下","expect":{"type":"reply"}}]}
+{"id":"reply-048","kind":"reply","turns":[{"text":"我先去吃饭了","expect":{"type":"reply"}}]}
+{"id":"reply-049","kind":"reply","turns":[{"text":"对","expect":{"type":"reply"}}]}
+{"id":"reply-050","kind":"reply","turns":[{"text":"不是","expect":{"type":"reply"}}]}
+{"id":"reply-051","kind":"reply","turns":[{"text":"嗯好","expect":{"type":"reply"}}]}
+{"id":"reply-052","kind":"reply","turns":[{"text":"行吧","expect":{"type":"reply"}}]}
+{"id":"reply-053","kind":"reply","turns":[{"text":"好的谢谢","expect":{"type":"reply"}}]}
+{"id":"reply-054","kind":"reply","turns":[{"text":"晚上好","expect":{"type":"reply"}}]}
+{"id":"reply-055","kind":"reply","turns":[{"text":"你今天怎么样","expect":{"type":"reply"}}]}
+{"id":"reply-056","kind":"reply","turns":[{"text":"周末愉快","expect":{"type":"reply"}}]}
+{"id":"reply-057","kind":"reply","turns":[{"text":"新年快乐","expect":{"type":"reply"}}]}
+{"id":"reply-058","kind":"reply","turns":[{"text":"生日快乐","expect":{"type":"reply"}}]}
+{"id":"new-001","kind":"new","turns":[{"text":"最近迷上抱石了，有没有入门建议","expect":{"type":"new","about":"攀岩、抱石"}}]}
+{"id":"new-002","kind":"new","turns":[{"text":"科目一题库怎么刷最快","expect":{"type":"new","about":"学车考驾照"}}]}
+{"id":"new-003","kind":"new","turns":[{"text":"孕早期哪些东西不能吃","expect":{"type":"new","about":"备孕和孕期"}}]}
+{"id":"new-004","kind":"new","turns":[{"text":"美国本科申请时间线是怎样的","expect":{"type":"new","about":"留学和国际教育"}}]}
+{"id":"new-005","kind":"new","turns":[{"text":"滑雪服买什么牌子","expect":{"type":"new","about":"滑雪等冰雪运动"}}]}
+{"id":"new-006","kind":"new","turns":[{"text":"想学毛笔字，先练楷书还是行书","expect":{"type":"new","about":"书法和国画"}}]}
+{"id":"new-007","kind":"new","turns":[{"text":"公路车入门买什么","expect":{"type":"new","about":"骑行"}}]}
+{"id":"new-008","kind":"new","turns":[{"text":"考潜水证去哪里考","expect":{"type":"new","about":"潜水和水上运动"}}]}
+{"id":"new-009","kind":"new","turns":[{"text":"买个入门天文望远镜看土星","expect":{"type":"new","about":"天文观星"}}]}
+{"id":"new-010","kind":"new","turns":[{"text":"粤语的九个声调怎么学","expect":{"type":"new","about":"粤语"}}]}
+{"id":"new-011","kind":"new","turns":[{"text":"法语的小舌音怎么发","expect":{"type":"new","about":"法语"}}]}
+{"id":"new-012","kind":"new","turns":[{"text":"第一次纹身纹在哪里不太疼","expect":{"type":"new","about":"纹身"}}]}
+{"id":"new-013","kind":"new","turns":[{"text":"成年人学街舞晚不晚","expect":{"type":"new","about":"舞蹈"}}]}
+{"id":"new-014","kind":"new","turns":[{"text":"歼-35 和 F-35 比怎么样","expect":{"type":"new","about":"军事"}}]}
+{"id":"new-015","kind":"new","turns":[{"text":"想在老家承包几亩地种果树","expect":{"type":"new","about":"农业种植"}}]}
+{"id":"new-016","kind":"new","turns":[{"text":"加拿大技术移民现在难不难","expect":{"type":"new","about":"移民"}}]}
+{"id":"new-017","kind":"new","turns":[{"text":"双色球有没有什么规律","expect":{"type":"new","about":"彩票"}}]}
+{"id":"new-018","kind":"new","turns":[{"text":"想跳槽，简历怎么写才能过筛","expect":{"type":"new","about":"跳槽求职"}}]}
+{"id":"new-019","kind":"new","turns":[{"text":"跟女朋友吵架了，怎么哄","expect":{"type":"new","about":"恋爱情感"}}]}
+{"id":"new-020","kind":"new","turns":[{"text":"下班后想做点副业，有什么推荐","expect":{"type":"new","about":"副业"}}]}
+{"id":"new-021","kind":"new","turns":[{"text":"想学骑马，北京哪里有马场","expect":{"type":"new","about":"马术"}}]}
+{"id":"new-022","kind":"new","turns":[{"text":"第一次冲浪去哪里学","expect":{"type":"new","about":"冲浪"}}]}
+{"id":"new-023","kind":"new","turns":[{"text":"射箭馆一般多少钱一小时","expect":{"type":"new","about":"射箭"}}]}
+{"id":"new-024","kind":"new","turns":[{"text":"周末组局玩剧本杀，六个人选什么本","expect":{"type":"new","about":"剧本杀和密室"}}]}
+{"id":"new-025","kind":"new","turns":[{"text":"想画条漫，用什么软件","expect":{"type":"new","about":"漫画创作"}}]}
+{"id":"new-026","kind":"new","turns":[{"text":"cos 服在哪定做","expect":{"type":"new","about":"cosplay"}}]}
+{"id":"new-027","kind":"new","turns":[{"text":"阳台能不能养一箱蜜蜂","expect":{"type":"new","about":"养蜂"}}]}
+{"id":"new-028","kind":"new","turns":[{"text":"太极拳二十四式怎么学","expect":{"type":"new","about":"武术太极"}}]}
+{"id":"new-029","kind":"new","turns":[{"text":"高尔夫新手先买几号杆","expect":{"type":"new","about":"高尔夫"}}]}
+{"id":"new-030","kind":"new","turns":[{"text":"网球正手总是下网","expect":{"type":"new","about":"网球"}}]}
+{"id":"new-031","kind":"new","turns":[{"text":"羽毛球拍选攻还是守","expect":{"type":"new","about":"羽毛球"}}]}
+{"id":"new-032","kind":"new","turns":[{"text":"戒烟第三天特别难受怎么熬","expect":{"type":"new","about":"戒烟"}}]}
+{"id":"new-033","kind":"new","turns":[{"text":"下周第一次相亲，聊什么话题","expect":{"type":"new","about":"相亲"}}]}
+{"id":"new-034","kind":"new","turns":[{"text":"想学手语从哪开始","expect":{"type":"new","about":"手语"}}]}
+{"id":"new-035","kind":"new","turns":[{"text":"有什么简单的近景魔术能学","expect":{"type":"new","about":"魔术"}}]}
+{"id":"new-036","kind":"new","turns":[{"text":"京剧的生旦净丑怎么区分","expect":{"type":"new","about":"京剧戏曲"}}]}
+{"id":"new-037","kind":"new","turns":[{"text":"考私照要多少钱","expect":{"type":"new","about":"飞行执照"}}]}
+{"id":"new-038","kind":"new","turns":[{"text":"帆船课一般学几天","expect":{"type":"new","about":"帆船"}}]}
+{"id":"new-039","kind":"new","turns":[{"text":"卡丁车怎么跑圈速更快","expect":{"type":"new","about":"卡丁车"}}]}
+{"id":"new-040","kind":"new","turns":[{"text":"家里老人走了，丧事流程怎么办","expect":{"type":"new","about":"丧事和殡葬"}}]}
+{"id":"new-041","kind":"new","turns":[{"text":"拳击入门先练什么","expect":{"type":"new","about":"拳击"}}]}
+{"id":"new-042","kind":"new","turns":[{"text":"保龄球怎么打出全中","expect":{"type":"new","about":"保龄球"}}]}
+{"id":"new-043","kind":"new","turns":[{"text":"滑板 ollie 怎么起跳","expect":{"type":"new","about":"滑板"}}]}
+{"id":"new-044","kind":"new","turns":[{"text":"第一次玩滑翔伞安全吗","expect":{"type":"new","about":"滑翔伞"}}]}
+{"id":"new-045","kind":"new","turns":[{"text":"想考业余无线电执照，难不难","expect":{"type":"new","about":"业余无线电"}}]}
+{"id":"new-046","kind":"new","turns":[{"text":"乒乓球反手拧拉怎么练","expect":{"type":"new","about":"乒乓球"}}]}
+{"id":"new-047","kind":"new","turns":[{"text":"击剑重剑和花剑选哪个","expect":{"type":"new","about":"击剑"}}]}
+{"id":"new-048","kind":"new","turns":[{"text":"跳伞要先考证吗","expect":{"type":"new","about":"跳伞"}}]}
+{"id":"new-049","kind":"new","turns":[{"text":"皮划艇新手第一次下水要注意什么","expect":{"type":"new","about":"皮划艇"}}]}
+{"id":"new-050","kind":"new","turns":[{"text":"韩语发音收音怎么练","expect":{"type":"new","about":"韩语"}}]}
+{"id":"split-060","kind":"split","turns":[{"text":"减脂期怎么吃，再帮我排一下这周的跑步","expect":{"type":"split","targets":[{"bao":"饮食宝","thread":null},{"bao":"跑步宝","thread":null}]}}]}
+{"id":"episode-001","kind":"episode","turns":[{"text":"帮我看看 iPad 现在哪个版本值得买","expect":{"type":"route","bao":"购物宝","thread":"买iPad"},"followUp":false},{"text":"那就 Air 吧","expect":{"type":"route","bao":"购物宝","thread":"买iPad"},"followUp":true},{"text":"颜色选哪个好看","expect":{"type":"route","bao":"购物宝","thread":"买iPad"},"followUp":true},{"text":"好，下单","expect":{"type":"route","bao":"购物宝","thread":"买iPad"},"followUp":true}],"title":"买iPad 接着聊"}
+{"id":"episode-002","kind":"episode","turns":[{"text":"Safari 登录那个问题查得怎么样了","expect":{"type":"route","bao":"开发宝","thread":"Safari登录"},"followUp":false},{"text":"是不是 cookie 的问题","expect":{"type":"route","bao":"开发宝","thread":"Safari登录"},"followUp":true},{"text":"对了午饭 35 块记一下","expect":{"type":"route","bao":"记账宝","thread":null},"followUp":false},{"text":"回到刚才，cookie 那个怎么改","expect":{"type":"route","bao":"开发宝","thread":"Safari登录"},"followUp":false}],"title":"Safari bug 中途插一句记账"}
+{"id":"episode-003","kind":"episode","turns":[{"text":"十二月去日本，大阪酒店还没订","expect":{"type":"route","bao":"旅行宝","thread":"日本行"},"followUp":false},{"text":"预算一晚 800 左右","expect":{"type":"route","bao":"旅行宝","thread":"日本行"},"followUp":true},{"text":"离难波近一点","expect":{"type":"route","bao":"旅行宝","thread":"日本行"},"followUp":true},{"text":"顺便看看签证要多久","expect":{"type":"route","bao":"旅行宝","thread":"日本行"},"followUp":true},{"text":"谢谢","expect":{"type":"reply"},"followUp":false}],"title":"日本行 连着问"}
+{"id":"episode-004","kind":"episode","turns":[{"text":"BTC 网格现在跑得怎么样","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"},"followUp":false},{"text":"收益多少","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"},"followUp":true},{"text":"区间往上调 5000","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"},"followUp":true},{"text":"为什么？","expect":{"type":"route","bao":"加密宝","thread":"BTC网格"},"followUp":true}],"title":"BTC 网格"}
+{"id":"episode-005","kind":"episode","turns":[{"text":"今天练完胸了，卧推还是 70","expect":{"type":"route","bao":"健身宝","thread":"增肌计划"},"followUp":false},{"text":"下次加到 72.5 试试","expect":{"type":"route","bao":"健身宝","thread":"增肌计划"},"followUp":true},{"text":"练完吃什么补蛋白","expect":{"type":"route","bao":"饮食宝","thread":"减脂餐"},"followUp":false},{"text":"那晚饭呢","expect":{"type":"route","bao":"饮食宝","thread":"减脂餐"},"followUp":true}],"title":"健身转饮食"}
+{"id":"episode-006","kind":"episode","turns":[{"text":"孩子今天应用题又错了","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"},"followUp":false},{"text":"是一道鸡兔同笼","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"},"followUp":true},{"text":"你给他讲讲思路","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"},"followUp":true},{"text":"再出三道类似的","expect":{"type":"route","bao":"孩子宝","thread":"小学数学"},"followUp":true}],"title":"孩子作业"}
+{"id":"episode-007","kind":"episode","turns":[{"text":"宣传片配乐有眉目了吗","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"},"followUp":false},{"text":"要轻快一点的","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"},"followUp":true},{"text":"不要人声","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"},"followUp":true},{"text":"做好发我","expect":{"type":"route","bao":"视频宝","thread":"产品宣传片"},"followUp":true}],"title":"宣传片"}
+{"id":"episode-008","kind":"episode","turns":[{"text":"早上好","expect":{"type":"reply"},"followUp":false},{"text":"今天几号","expect":{"type":"reply"},"followUp":false},{"text":"帮我看看今天有什么安排","expect":{"type":"route","bao":"日程宝","thread":"本周安排"},"followUp":false},{"text":"牙医那个推到下周","expect":{"type":"route","bao":"日程宝","thread":"本周安排"},"followUp":true}],"title":"早上随口几句"}
+{"id":"episode-009","kind":"episode","turns":[{"text":"想换电车，Model Y 和小米 YU7 帮我再比比","expect":{"type":"route","bao":"汽车宝","thread":"换车"},"followUp":false},{"text":"主要是高速续航","expect":{"type":"route","bao":"汽车宝","thread":"换车"},"followUp":true},{"text":"那保值呢","expect":{"type":"route","bao":"汽车宝","thread":"换车"},"followUp":true},{"text":"如果贷款买，利率哪家低","expect":{"type":"route","bao":"汽车宝","thread":"换车"},"followUp":true}],"title":"换车纠结"}
+{"id":"episode-010","kind":"episode","turns":[{"text":"个税汇算那个弄完了吗","expect":{"type":"route","bao":"税务宝","thread":"个税汇算"},"followUp":false},{"text":"房贷利息填了","expect":{"type":"route","bao":"税务宝","thread":"个税汇算"},"followUp":true},{"text":"上海出差的发票还差哪两张","expect":{"type":"route","bao":"报销宝","thread":"上海出差"},"followUp":false},{"text":"找到一张了，酒店的","expect":{"type":"route","bao":"报销宝","thread":"上海出差"},"followUp":true}],"title":"报税接报销"}
+{"id":"episode-011","kind":"episode","turns":[{"text":"猫两天没怎么吃东西","expect":{"type":"route","bao":"宠物宝","thread":null},"followUp":false},{"text":"精神还行，就是不吃","expect":{"type":"route","bao":"宠物宝","thread":null},"followUp":true},{"text":"要去医院吗","expect":{"type":"route","bao":"宠物宝","thread":null},"followUp":true},{"text":"对了它疫苗是哪天来着","expect":{"type":"route","bao":"宠物宝","thread":"猫疫苗"},"followUp":false}],"title":"猫生病"}
+{"id":"episode-012","kind":"episode","turns":[{"text":"帮我写一条推文介绍宝群聊","expect":{"type":"route","bao":"宣传宝","thread":null},"followUp":false},{"text":"短一点，三句话","expect":{"type":"route","bao":"宣传宝","thread":null},"followUp":true},{"text":"加个 emoji","expect":{"type":"route","bao":"宣传宝","thread":null},"followUp":true},{"text":"再翻成英文","expect":{"type":"route","bao":"宣传宝","thread":null},"followUp":true}],"title":"写推文"}
+{"id":"episode-013","kind":"episode","turns":[{"text":"最近想学攀岩，帮我规划一下","expect":{"type":"new","about":"攀岩、抱石、户外运动"},"followUp":false},{"text":"一周去几次合适","expect":{"type":"new","about":"攀岩、抱石、户外运动"},"followUp":true},{"text":"要买什么装备","expect":{"type":"new","about":"攀岩、抱石、户外运动"},"followUp":true}],"title":"新爱好：攀岩（该新建）"}
+{"id":"episode-014","kind":"episode","turns":[{"text":"我要考驾照了，科目一怎么复习","expect":{"type":"new","about":"学车考驾照"},"followUp":false},{"text":"科目二倒车入库有技巧吗","expect":{"type":"new","about":"学车考驾照"},"followUp":true},{"text":"驾校选哪家","expect":{"type":"new","about":"学车考驾照"},"followUp":true}],"title":"新事：考驾照（该新建）"}
+{"id":"episode-015","kind":"episode","turns":[{"text":"我的尿酸复查挂了吗","expect":{"type":"route","bao":"看病宝","thread":"体检报告"},"followUp":false},{"text":"挂周四上午","expect":{"type":"route","bao":"看病宝","thread":"体检报告"},"followUp":true},{"text":"我爸胃镜也是那周吧","expect":{"type":"route","bao":"父母宝","thread":"爸体检"},"followUp":false},{"text":"帮我俩的都提醒一下","expect":{"type":"split","targets":[{"bao":"看病宝","thread":"体检报告"},{"bao":"父母宝","thread":"爸体检"}]},"followUp":false}],"title":"体检和父母"}
+{"id":"episode-016","kind":"episode","turns":[{"text":"记一笔外卖 42，另外提醒我明天交房租","expect":{"type":"split","targets":[{"bao":"记账宝","thread":null},{"bao":"家庭账宝","thread":null}]},"followUp":false},{"text":"房租是 6500","expect":{"type":"route","bao":"家庭账宝","thread":null},"followUp":false},{"text":"外卖那笔记到餐饮","expect":{"type":"route","bao":"记账宝","thread":null},"followUp":false}],"title":"一句多件事开头"}
+{"id":"episode-017","kind":"episode","turns":[{"text":"N2 第五章的语法看完了","expect":{"type":"route","bao":"日语宝","thread":"N2备考"},"followUp":false},{"text":"给我出十道题","expect":{"type":"route","bao":"日语宝","thread":"N2备考"},"followUp":true},{"text":"第三题为什么选 B","expect":{"type":"route","bao":"日语宝","thread":"N2备考"},"followUp":true},{"text":"下一章讲什么","expect":{"type":"route","bao":"日语宝","thread":"N2备考"},"followUp":true}],"title":"学日语"}
+{"id":"episode-018","kind":"episode","turns":[{"text":"Transformer 综述 Mamba 部分写完了吗","expect":{"type":"route","bao":"论文宝","thread":"Transformer综述"},"followUp":false},{"text":"加一段和 RWKV 的对比","expect":{"type":"route","bao":"论文宝","thread":"Transformer综述"},"followUp":true},{"text":"写完帮我润色一下语言","expect":{"type":"route","bao":"论文宝","thread":"Transformer综述"},"followUp":true},{"text":"另外帮我写首小诗放在公众号末尾","expect":{"type":"split","targets":[{"bao":"写作宝","thread":null},{"bao":"公众号宝","thread":null}]},"followUp":false}],"title":"论文到写作"}
+{"id":"episode-019","kind":"episode","turns":[{"text":"远程又连不上了","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"},"followUp":false},{"text":"显示 530","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"},"followUp":true},{"text":"看门狗没重启吗","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"},"followUp":true},{"text":"日志发我","expect":{"type":"route","bao":"运维宝","thread":"隧道掉线"},"followUp":true}],"title":"隧道又掉线"}
+{"id":"episode-020","kind":"episode","turns":[{"text":"BP 第三版改到哪了","expect":{"type":"route","bao":"融资宝","thread":"天使轮BP"},"followUp":false},{"text":"市场规模那页换个数据源","expect":{"type":"route","bao":"融资宝","thread":"天使轮BP"},"followUp":true},{"text":"下周见投资人，帮我准备问答","expect":{"type":"route","bao":"融资宝","thread":null},"followUp":false},{"text":"路演的 PPT 也要同步改","expect":{"type":"route","bao":"演讲宝","thread":"路演PPT"},"followUp":false}],"title":"融资准备"}
+{"id":"episode-021","kind":"episode","turns":[{"text":"F 和弦按了一周还是不响","expect":{"type":"route","bao":"音乐宝","thread":"学吉他"},"followUp":false},{"text":"是不是手指力量不够","expect":{"type":"route","bao":"音乐宝","thread":"学吉他"},"followUp":true},{"text":"有没有更简单的替代","expect":{"type":"route","bao":"音乐宝","thread":"学吉他"},"followUp":true}],"title":"吉他"}
+{"id":"episode-022","kind":"episode","turns":[{"text":"最近老失眠","expect":{"type":"route","bao":"睡眠宝","thread":null},"followUp":false},{"text":"两点才睡着","expect":{"type":"route","bao":"睡眠宝","thread":null},"followUp":true},{"text":"要不要吃褪黑素","expect":{"type":"route","bao":"睡眠宝","thread":null},"followUp":true},{"text":"是不是压力太大了","expect":{"type":"route","bao":"睡眠宝","thread":null},"followUp":true}],"title":"睡眠"}
+{"id":"episode-023","kind":"episode","turns":[{"text":"书房书桌选好了吗","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"},"followUp":false},{"text":"要实木的","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"},"followUp":true},{"text":"再配个人体工学椅","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"},"followUp":true},{"text":"椅子预算两千以内","expect":{"type":"route","bao":"搬家宝","thread":"装修书房"},"followUp":true}],"title":"装修"}
+{"id":"episode-024","kind":"episode","turns":[{"text":"水神殿那个机关还是过不去","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"},"followUp":false},{"text":"就是要转水车那个","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"},"followUp":true},{"text":"好了过了！","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"},"followUp":true},{"text":"下一个神殿在哪","expect":{"type":"route","bao":"游戏宝","thread":"塞尔达"},"followUp":true}],"title":"塞尔达"}
+{"id":"episode-025","kind":"episode","turns":[{"text":"星河科技报价单发了吗","expect":{"type":"route","bao":"客户宝","thread":"星河科技"},"followUp":false},{"text":"他们同意了，要签合同","expect":{"type":"route","bao":"客户宝","thread":"星河科技"},"followUp":true},{"text":"帮我起草一份服务合同","expect":{"type":"route","bao":"合同宝","thread":null},"followUp":false},{"text":"付款分两期","expect":{"type":"route","bao":"合同宝","thread":null},"followUp":true}],"title":"客户和合同"}
+{"id":"episode-026","kind":"episode","turns":[{"text":"好累啊","expect":{"type":"route","bao":"闲聊宝","thread":null},"followUp":false},{"text":"陪我聊会","expect":{"type":"route","bao":"闲聊宝","thread":null},"followUp":true},{"text":"讲个笑话吧","expect":{"type":"route","bao":"闲聊宝","thread":null},"followUp":true}],"title":"闲聊"}
+{"id":"episode-027","kind":"episode","turns":[{"text":"今天的单词发我","expect":{"type":"route","bao":"英语宝","thread":"每日单词"},"followUp":false},{"text":"考考我","expect":{"type":"route","bao":"英语宝","thread":"每日单词"},"followUp":true},{"text":"第五个什么意思","expect":{"type":"route","bao":"英语宝","thread":"每日单词"},"followUp":true},{"text":"明天开始改成每天 40 个","expect":{"type":"route","bao":"英语宝","thread":"每日单词"},"followUp":true}],"title":"英语单词"}
+{"id":"episode-028","kind":"episode","turns":[{"text":"周四面的前端怎么样","expect":{"type":"route","bao":"招聘宝","thread":"招前端"},"followUp":false},{"text":"第一个可以发 offer","expect":{"type":"route","bao":"招聘宝","thread":"招前端"},"followUp":true},{"text":"薪资给多少合适","expect":{"type":"route","bao":"招聘宝","thread":"招前端"},"followUp":true},{"text":"offer 邮件帮我写一下","expect":{"type":"route","bao":"招聘宝","thread":"招前端"},"followUp":true}],"title":"招聘"}
+{"id":"episode-029","kind":"episode","turns":[{"text":"龟背竹又黄了一片叶子","expect":{"type":"route","bao":"植物宝","thread":"龟背竹"},"followUp":false},{"text":"这周只浇了一次水","expect":{"type":"route","bao":"植物宝","thread":"龟背竹"},"followUp":true},{"text":"是不是光照不够","expect":{"type":"route","bao":"植物宝","thread":"龟背竹"},"followUp":true}],"title":"龟背竹"}
+{"id":"episode-030","kind":"episode","turns":[{"text":"logo 我决定用 A3","expect":{"type":"route","bao":"设计宝","thread":"新logo"},"followUp":false},{"text":"再做一个白底的版本","expect":{"type":"route","bao":"设计宝","thread":"新logo"},"followUp":true},{"text":"官网上的 logo 也换了","expect":{"type":"route","bao":"官网宝","thread":null},"followUp":false},{"text":"App 图标也换","expect":{"type":"route","bao":"开发宝","thread":null},"followUp":false}],"title":"logo 定稿"}
+{"id":"episode-031","kind":"episode","turns":[{"text":"房东只肯退 3000 押金","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"},"followUp":false},{"text":"我有交押金的转账记录","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"},"followUp":true},{"text":"起诉要多少钱","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"},"followUp":true},{"text":"帮我写一份起诉状","expect":{"type":"route","bao":"法律宝","thread":"押金纠纷"},"followUp":true}],"title":"押金纠纷"}
+{"id":"episode-032","kind":"episode","turns":[{"text":"红利 ETF 这个月扣款了吗","expect":{"type":"route","bao":"A股宝","thread":"红利ETF"},"followUp":false},{"text":"下个月开始每月加到 3000","expect":{"type":"route","bao":"A股宝","thread":"红利ETF"},"followUp":true},{"text":"还有闲钱十万放哪","expect":{"type":"route","bao":"理财宝","thread":null},"followUp":false},{"text":"年金险那个最后选了吗","expect":{"type":"route","bao":"理财宝","thread":"年金险"},"followUp":false}],"title":"定投和理财"}
+{"id":"episode-033","kind":"episode","turns":[{"text":"今天跑了 15 公里，配速 5 分 40","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"},"followUp":false},{"text":"膝盖有点疼","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"},"followUp":true},{"text":"要休息几天吗","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"},"followUp":true},{"text":"半马还能按时参加吗","expect":{"type":"route","bao":"跑步宝","thread":"半马备赛"},"followUp":true}],"title":"跑步"}
+{"id":"episode-034","kind":"episode","turns":[{"text":"今天群里说了啥","expect":{"type":"route","bao":"微信宝","thread":"群消息摘要"},"followUp":false},{"text":"投资群那个也加进去","expect":{"type":"route","bao":"微信宝","thread":"群消息摘要"},"followUp":true},{"text":"有人@我吗","expect":{"type":"route","bao":"微信宝","thread":"群消息摘要"},"followUp":true}],"title":"微信群"}
+{"id":"episode-035","kind":"episode","turns":[{"text":"我们准备要二胎了，备孕要注意什么","expect":{"type":"new","about":"备孕和孕期"},"followUp":false},{"text":"叶酸什么时候开始吃","expect":{"type":"new","about":"备孕和孕期"},"followUp":true},{"text":"需要做哪些检查","expect":{"type":"new","about":"备孕和孕期"},"followUp":true}],"title":"新事：备孕（该新建）"}
+{"id":"episode-036","kind":"episode","turns":[{"text":"今年冬天想去崇礼滑雪，零基础","expect":{"type":"new","about":"滑雪等冰雪运动"},"followUp":false},{"text":"单板还是双板","expect":{"type":"new","about":"滑雪等冰雪运动"},"followUp":true},{"text":"要请教练吗","expect":{"type":"new","about":"滑雪等冰雪运动"},"followUp":true},{"text":"那边住宿订哪里","expect":{"type":"route","bao":"旅行宝","thread":null},"followUp":false}],"title":"新事：学滑雪（该新建）"}
+{"id":"episode-037","kind":"episode","turns":[{"text":"穷查理第三章笔记整理好了吗","expect":{"type":"route","bao":"读书宝","thread":"穷查理"},"followUp":false},{"text":"多元思维模型那段再展开","expect":{"type":"route","bao":"读书宝","thread":"穷查理"},"followUp":true},{"text":"下一本读什么","expect":{"type":"route","bao":"读书宝","thread":null},"followUp":false},{"text":"帮我列个明年的书单","expect":{"type":"route","bao":"读书宝","thread":null},"followUp":true}],"title":"书和笔记"}
+{"id":"episode-038","kind":"episode","turns":[{"text":"车该二保了","expect":{"type":"route","bao":"出行宝","thread":"车保养"},"followUp":false},{"text":"4S 店报 1800","expect":{"type":"route","bao":"出行宝","thread":"车保养"},"followUp":true},{"text":"外面修理厂多少","expect":{"type":"route","bao":"出行宝","thread":"车保养"},"followUp":true},{"text":"下周六上午约一下","expect":{"type":"route","bao":"出行宝","thread":"车保养"},"followUp":true}],"title":"车保养"}
+{"id":"episode-039","kind":"episode","turns":[{"text":"现在几点了","expect":{"type":"reply"},"followUp":false},{"text":"提醒我三点开会","expect":{"type":"route","bao":"日程宝","thread":null},"followUp":false},{"text":"会议纪要帮我准备个模板","expect":{"type":"route","bao":"会议宝","thread":null},"followUp":false},{"text":"谢谢","expect":{"type":"reply"},"followUp":false}],"title":"混着问时间和别的"}
+{"id":"episode-040","kind":"episode","turns":[{"text":"Kiki 商标近似查完了吗","expect":{"type":"route","bao":"商标宝","thread":"Kiki商标"},"followUp":false},{"text":"42 类有没有撞","expect":{"type":"route","bao":"商标宝","thread":"Kiki商标"},"followUp":true},{"text":"那就提交吧","expect":{"type":"route","bao":"商标宝","thread":"Kiki商标"},"followUp":true},{"text":"顺便软著也一起办","expect":{"type":"route","bao":"商标宝","thread":null},"followUp":false}],"title":"商标"}
+{"id":"episode-041","kind":"episode","turns":[{"text":"七日留存算了吗","expect":{"type":"route","bao":"数据宝","thread":"用户留存"},"followUp":false},{"text":"按渠道拆开","expect":{"type":"route","bao":"数据宝","thread":"用户留存"},"followUp":true},{"text":"画个图","expect":{"type":"route","bao":"数据宝","thread":"用户留存"},"followUp":true},{"text":"发到周会纪要里","expect":{"type":"route","bao":"会议宝","thread":"周会纪要"},"followUp":false}],"title":"数据留存"}
+{"id":"episode-042","kind":"episode","turns":[{"text":"隐适美这副有点疼","expect":{"type":"route","bao":"牙齿宝","thread":"隐适美"},"followUp":false},{"text":"正常吗","expect":{"type":"route","bao":"牙齿宝","thread":"隐适美"},"followUp":true},{"text":"下次复诊几号","expect":{"type":"route","bao":"牙齿宝","thread":"隐适美"},"followUp":true}],"title":"牙"}
+{"id":"episode-043","kind":"episode","turns":[{"text":"过年回老家的票能抢了吗","expect":{"type":"route","bao":"亲戚宝","thread":"过年回老家"},"followUp":false},{"text":"抢 2 月 10 号的","expect":{"type":"route","bao":"亲戚宝","thread":"过年回老家"},"followUp":true},{"text":"给侄子们的红包包多少","expect":{"type":"route","bao":"亲戚宝","thread":null},"followUp":false},{"text":"爸妈那边要不要带点年货","expect":{"type":"route","bao":"父母宝","thread":null},"followUp":false}],"title":"过年"}
+{"id":"episode-044","kind":"episode","turns":[{"text":"Stripe 开户最后选 Atlas 吗","expect":{"type":"route","bao":"海外宝","thread":"Stripe开户"},"followUp":false},{"text":"费用多少","expect":{"type":"route","bao":"海外宝","thread":"Stripe开户"},"followUp":true},{"text":"开好后能马上收款吗","expect":{"type":"route","bao":"海外宝","thread":"Stripe开户"},"followUp":true}],"title":"Stripe"}
+{"id":"episode-045","kind":"episode","turns":[{"text":"均线策略回测结果出来了吗","expect":{"type":"route","bao":"量化宝","thread":"均线回测"},"followUp":false},{"text":"加上止损再跑一次","expect":{"type":"route","bao":"量化宝","thread":"均线回测"},"followUp":true},{"text":"回撤还是太大","expect":{"type":"route","bao":"量化宝","thread":"均线回测"},"followUp":true},{"text":"换成 BTC 试试","expect":{"type":"route","bao":"量化宝","thread":"均线回测"},"followUp":true}],"title":"量化"}
+{"id":"episode-046","kind":"episode","turns":[{"text":"那两款重疾险比较好了吗","expect":{"type":"route","bao":"保险宝","thread":"重疾险"},"followUp":false},{"text":"保额 50 万","expect":{"type":"route","bao":"保险宝","thread":"重疾险"},"followUp":true},{"text":"保费一年多少","expect":{"type":"route","bao":"保险宝","thread":"重疾险"},"followUp":true},{"text":"我自己也要配一份","expect":{"type":"route","bao":"保险宝","thread":null},"followUp":false}],"title":"重疾险"}
+{"id":"episode-047","kind":"episode","turns":[{"text":"第三个钱包的交互做完了吗","expect":{"type":"route","bao":"链上宝","thread":"空投交互"},"followUp":false},{"text":"gas 花了多少","expect":{"type":"route","bao":"链上宝","thread":"空投交互"},"followUp":true},{"text":"再加一个新钱包","expect":{"type":"route","bao":"链上宝","thread":"空投交互"},"followUp":true}],"title":"空投"}
+{"id":"episode-048","kind":"episode","turns":[{"text":"想送孩子去英国读高中，需要准备什么","expect":{"type":"new","about":"留学和国际教育"},"followUp":false},{"text":"雅思要考多少","expect":{"type":"new","about":"留学和国际教育"},"followUp":true},{"text":"一年费用大概多少","expect":{"type":"new","about":"留学和国际教育"},"followUp":true}],"title":"留学咨询（该新建）"}
+{"id":"episode-049","kind":"episode","turns":[{"text":"物业费明年真涨到 3.5 了","expect":{"type":"route","bao":"家庭账宝","thread":"物业费"},"followUp":false},{"text":"一年多交多少","expect":{"type":"route","bao":"家庭账宝","thread":"物业费"},"followUp":true},{"text":"能去投诉吗","expect":{"type":"route","bao":"法律宝","thread":null},"followUp":false}],"title":"物业费"}
+{"id":"episode-050","kind":"episode","turns":[{"text":"邀请码服务迁到 Workers 了吗","expect":{"type":"route","bao":"后端宝","thread":"邀请码服务"},"followUp":false},{"text":"D1 表加过期时间","expect":{"type":"route","bao":"后端宝","thread":"邀请码服务"},"followUp":true},{"text":"测试一下并发","expect":{"type":"route","bao":"测试宝","thread":null},"followUp":false}],"title":"邀请码服务"}
+{"id":"episode-051","kind":"episode","turns":[{"text":"今天就到这吧","expect":{"type":"reply"},"followUp":false},{"text":"等等，招行卡账单出了吗","expect":{"type":"route","bao":"信用卡宝","thread":"招行卡"},"followUp":false},{"text":"自动还款设了吗","expect":{"type":"route","bao":"信用卡宝","thread":"招行卡"},"followUp":true},{"text":"下个月起把房贷也设成自动扣","expect":{"type":"route","bao":"房产宝","thread":null},"followUp":false},{"text":"好了晚安","expect":{"type":"reply"},"followUp":false}],"title":"收尾几句"}
