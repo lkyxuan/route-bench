@@ -136,14 +136,17 @@ const started = Date.now();
 
 async function runCase(c) {
   const history = [];
+  let caseBaos = baos; // 连续对话里新建了宝：后面几句的宝列表里加上它（假装已经建好）
   for (let i = 0; i < c.turns.length; i++) {
     const turn = c.turns[i];
     const prev = c.turns[i - 1]?.expect;
+    const made = turn.expect.created;
+    if (made && !caseBaos.some((b) => b.name === made.name)) caseBaos = [...caseBaos, { name: made.name, group: "新建", desc: made.about, threads: [] }];
     const q = {
       text: turn.text,
       history, // 前几句和它们的正确去处
-      current: prev?.type === "route" ? { bao: prev.bao, thread: prev.thread } : null, // 用户眼下所在（上一句的正确去处）
-      baos, // 全部宝和讨论串
+      current: prev?.type === "route" ? { bao: prev.bao, thread: prev.thread } : prev?.type === "new" && prev.name ? { bao: prev.name, thread: null } : null, // 用户眼下所在（上一句的正确去处）
+      baos: caseBaos, // 全部宝和讨论串
     };
     const t0 = performance.now();
     let got, err;
